@@ -270,7 +270,7 @@ print(f"La mínima és un {notamin}, i l'ha obtingut {alumnes[posicio]}") #impri
 ```
 
 
-# Classe 28/02/2023: Diccionaris, Tuples, PANDAS, JSON
+# 28/02/2023: Diccionaris, Tuples, PANDAS, JSON
 ## Diccionaris
 Són llistes amb parells de valors.
 ```Python
@@ -463,7 +463,7 @@ print(df.iloc[[max]]) #per trobar el numero de fila utilitzem idmax i iloc
 ```
 
 
-# Classe 07/03/2023: Twitch API
+# 07/03/2023: Twitch API
 ## API Twitch
 Entre la base de dades i l'ordinador que ho solicita, hi ha l'API. Mai es comuniquen directament l'ordinador i la BD.
 Entrem a PY Twitch API (https://pytwitchapi.readthedocs.io/en/v2.5.7/index.html) Aquesta web ens explica com utilitzar la llibreria per simplificar el codi necessari per consultar l'API des de l'ordinador. Fa d'intermediari entre API i ordinador.
@@ -649,7 +649,7 @@ print(final_dataframe)
 ```
 
 
-# Classe 14/03/2023: Pandas (YT i Twitch)
+# 14/03/2023: Pandas (YT i Twitch)
 ## Exercici 2 pandas
 ### .drop / .pop
 Per treure elements del dataframe, podem utilitzar drop i pop. Les dues opcions son bones, però drop és millor perquè és natiu de pandas.
@@ -834,7 +834,7 @@ final_frame.to_csv("kingsleague.csv", index=False) #exportem el DF final a csv
 ```
 
 
-# Classe 21/03/2023: API Spotify
+# 21/03/2023: API Spotify
 ## Exercici API spotify
 Direccions d'on treiem les dades i on explica en general el que fem.
 Explicació apunts de classe: https://adriapadilla.github.io/bigdata-uab/spotify.html
