@@ -73,11 +73,10 @@ final_frame_2.to_csv("ex_1.csv")
 
 Després de desenvolupar el codi, hem obtingut els següents gràfics amb Tableau. A partir d'aquests s'han pogut extreure la informació i les conclusions que exposo a continuació.
 
-![Imatge](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Pasted%20image%2020230416171223.png)
-![[Pasted image 20230416171223.png]]
+![Captura 1](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Pasted%20image%2020230416171223.png)
 La captura comença l'1 de febrer i acaba el 28 de febrer. En aquest gràfic minut a minut podem veure que hi ha pics i valls cíclics. Tot i així, hi ha pics que pugen molt més amunt que d'altres. El primer pic que destaca el trobem entre els dies 5 i 7 de febrer. També hi ha algun altre dia en que el pic ha sobresortit però no és més d'un dia seguit, excepte a final de mes. Els dies 26, 27 i 28 hi ha els màxims d'audiències, arribant a més d'un milió i mig d'espectadors.
 
-![[Pasted image 20230416171758.png]]
+![Captura 2](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Pasted%20image%2020230416171758.png)
 En quant, al comportament cíclic esmentat abans, correspon a les hores dels dies. A la nit, entre les 19h i les 4h es concentren la majoria d'espectadors, mentre que al matí i migdia nl'audiència és molt baixa.
 
 
