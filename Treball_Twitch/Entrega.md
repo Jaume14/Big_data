@@ -74,9 +74,11 @@ final_frame_2.to_csv("ex_1.csv")
 Després de desenvolupar el codi, hem obtingut els següents gràfics amb Tableau. A partir d'aquests s'han pogut extreure la informació i les conclusions que exposo a continuació.
 
 ![Captura 1](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Pasted%20image%2020230416171223.png)
+
 La captura comença l'1 de febrer i acaba el 28 de febrer. En aquest gràfic minut a minut podem veure que hi ha pics i valls cíclics. Tot i així, hi ha pics que pugen molt més amunt que d'altres. El primer pic que destaca el trobem entre els dies 5 i 7 de febrer. També hi ha algun altre dia en que el pic ha sobresortit però no és més d'un dia seguit, excepte a final de mes. Els dies 26, 27 i 28 hi ha els màxims d'audiències, arribant a més d'un milió i mig d'espectadors.
 
 ![Captura 2](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Pasted%20image%2020230416171758.png)
+
 En quant, al comportament cíclic esmentat abans, correspon a les hores dels dies. A la nit, entre les 19h i les 4h es concentren la majoria d'espectadors, mentre que al matí i migdia nl'audiència és molt baixa.
 
 
@@ -180,7 +182,9 @@ final_frame_1.to_csv("ex_2_2.csv")
 print("Tenim exportat el document csv anomenat ex_2_2.csv")
 ```
 ![Captura 3](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Pasted%20image%2020230416173720.png)
+
 ![Captura 4](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Pasted%20image%2020230416194134.png)
+
 Comparant aquestes dues mètriques podem veure que la majoria dels jocs amb més espectadors també són els que tenen més hores de joc. Cal destacar un parell de casos molt concrets que es troben en els 10 jocs amb més espectadors, i en canvi no apareixen en els que tenen més hores jugades. Són els "Sports" i "Special Events". Aquesta diferència evidencia que molt poques hores de directes en aquesta categoria suposen una acumulació molt alta (probablement simultània) d'espectadors.
 
 
@@ -233,6 +237,7 @@ print("Tenim exportat el document csv anomenat ex_3.csv")
 ```
 
 ![Captura 5](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Pasted%20image%2020230416174715.png)
+
 L'evolució de la majoria de categories és força estable, especialment "Just Chatting". Trobem quatre pics de la categoria "Sports" als dies 5, 12 i 19. El dia 26, a final de més també apareix un creixement molt important a "Sports" que dobla qualsevol altre pic. El mateix que passa al dia 28 amb "Minecraft" i "Just Chatting". El 28 de febrer també hi ha un creixement molt gran de "Special Events".
 Un últim fenòmen que cal destacar és "Hogwarts Legacy", que apareix al dia 7 i va decaient fins a perdre's amb la resta de categories.
 
@@ -289,6 +294,7 @@ final_frame_2.to_csv("ex_4.csv")
 print("Tenim exportat el document csv anomenat ex_4.csv")
 ```
 ![Captura 6](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Pasted%20image%2020230416200621.png)
+
 Amb aquest gràfic podem veure que hi ha una majoria que té molt pocs espectadors, tant si fant moltes hores de directe com si en fan molt poques. Trobem algun streamer que no deixa de fer directe en ningún moment i que sí que alguns viewers, com viviendoenlacalle o IJEnz. Després trobem tota una agruàció que tenen molts espectadors que no fan més de 150hores i que agrupen entre 10 milions i 48 milions d'audiència. Son: kingleague, ibai, IlloJuan, ElSpreen, juansguarnizo i ElMariana.
 
 
@@ -344,6 +350,7 @@ print("Tenim exportat el document csv anomenat ex_5.csv")'''
 ```
 
 ![Captura 7](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Pasted%20image%2020230416202154.png)
+
 ![Captura 8](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Pasted%20image%2020230416202740.png)
 
 L'evolució de la desviació del volum d'espectadors coincideix amb el comportament cíclic de l'evolució de màxims d'espectadors. S'observa un comportament cíclic que coincideix amb les hores del dia. A la tarda i nit es polaritzen els espectadors, mentre que a partir de les 22h i fins la 1h, l'audiència es va fent uniforme. Els pics de desviació també coincideixen amb els moments de més audiència del mes. En canvi en les hores vall els espectadors estan distribuïts de manera més uniforme, ja que la desviació és molt menor. Podem concloure que aquells que moments en que hi ha més espectadors també són aquells en els que l'audiència està més polaritzada.
