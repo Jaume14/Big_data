@@ -3,6 +3,8 @@ Les dades extretes corresponen als tweets en què apareixen els alcaldables de l
 
 ## Evolució temporal
 
+![Captura 1](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitter/Img/Pasted image 20230427173123.png)
+
 ![[Pasted image 20230427173123.png]]
 
 En l'anàlisi temporal del nombre de tweets, podem veure que l'acumulació per hora fluctua al llarg del període estudiat. Els dies 3 i 4 d'abril hi ha un pic que gairebé arriba als 800 tweets per hora. Aquest augment podria ser degut a la publicació oficial en el BOE d'aquestes eleccions, entre altres motius. La resta de dies, el nombre de tweets per hora és força constant, amb un augment puntual alguns dies (11, 12, 15, 16), però el pic inicial arriba a quadruplicar la resta.  
