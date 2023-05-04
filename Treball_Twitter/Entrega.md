@@ -3,7 +3,7 @@ Les dades extretes corresponen als tweets en què apareixen els alcaldables de l
 
 ## Evolució temporal
 
-![Captura 1](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitter/Img/Pasted%image%20230427173123.png)
+![[Pasted image 20230427173123.png](http://github.com/Jaume14/Big_data/blob/main/Treball_Twitter/Img/Pasted%image%20230427173123.png)]
 
 ![[Pasted image 20230427173123.png]]
 
