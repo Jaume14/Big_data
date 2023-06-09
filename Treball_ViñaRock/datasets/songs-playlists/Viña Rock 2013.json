@@ -1,0 +1,2162 @@
+[
+    {
+        "id": "7cSQx7fnEzrDy0aBEn33C5",
+        "title": "Optimista",
+        "artist": "Alamedadosoulna",
+        "album": "Finissimo 2",
+        "release_date": "2009-02-26",
+        "duration_ms": 162266,
+        "spotify_url": "https://open.spotify.com/track/7cSQx7fnEzrDy0aBEn33C5"
+    },
+    {
+        "id": "0418HyILYBxXSuPOQ6z5zv",
+        "title": "Camale\u00f3n",
+        "artist": "Alamedadosoulna",
+        "album": "Finissimo 2",
+        "release_date": "2009-02-26",
+        "duration_ms": 137640,
+        "spotify_url": "https://open.spotify.com/track/0418HyILYBxXSuPOQ6z5zv"
+    },
+    {
+        "id": "2bWyw42DXGNnMf4dtb3DsE",
+        "title": "Encantado",
+        "artist": "Alamedadosoulna",
+        "album": "Finissimo 2",
+        "release_date": "2009-02-26",
+        "duration_ms": 198453,
+        "spotify_url": "https://open.spotify.com/track/2bWyw42DXGNnMf4dtb3DsE"
+    },
+    {
+        "id": "6oMZ1gmN0AO0ibokz2vE6S",
+        "title": "Me Lo Trago",
+        "artist": "Alamedadosoulna",
+        "album": "Play!",
+        "release_date": "2011-09-12",
+        "duration_ms": 174053,
+        "spotify_url": "https://open.spotify.com/track/6oMZ1gmN0AO0ibokz2vE6S"
+    },
+    {
+        "id": "60r6OKfiy0qEAdRqbyeXCy",
+        "title": "Denak ez du balio",
+        "artist": "Berri Txarrak",
+        "album": "Libre \u00a9",
+        "release_date": "2003-10-15",
+        "duration_ms": 253120,
+        "spotify_url": "https://open.spotify.com/track/60r6OKfiy0qEAdRqbyeXCy"
+    },
+    {
+        "id": "20lK8IHAvE6vEHKa39wyBV",
+        "title": "Oreka",
+        "artist": "Berri Txarrak",
+        "album": "Jaio.Musika.Hil",
+        "release_date": "2005-10-10",
+        "duration_ms": 241760,
+        "spotify_url": "https://open.spotify.com/track/20lK8IHAvE6vEHKa39wyBV"
+    },
+    {
+        "id": "1LfVGlXJuplIO5PGAzTO6N",
+        "title": "Bisai Berriak",
+        "artist": "Berri Txarrak",
+        "album": "Denak Ez Du Balio-Singles 1997-2007",
+        "release_date": "2010-12-07",
+        "duration_ms": 187560,
+        "spotify_url": "https://open.spotify.com/track/1LfVGlXJuplIO5PGAzTO6N"
+    },
+    {
+        "id": "66twOHRfFgO5ZcHPgAPL4P",
+        "title": "Albo, Kalteak",
+        "artist": "Berri Txarrak",
+        "album": "Haria",
+        "release_date": "2011-11-21",
+        "duration_ms": 202272,
+        "spotify_url": "https://open.spotify.com/track/66twOHRfFgO5ZcHPgAPL4P"
+    },
+    {
+        "id": "5POVqopleYwfzo5SYovlKK",
+        "title": "Todos los d\u00edas sale el sol",
+        "artist": "Bongo Botrako",
+        "album": "Todos Los D\u00edas Sale El Sol",
+        "release_date": "2010-10-31",
+        "duration_ms": 146337,
+        "spotify_url": "https://open.spotify.com/track/5POVqopleYwfzo5SYovlKK"
+    },
+    {
+        "id": "00e0clynzXwlnufc9bKdG5",
+        "title": "Caminante",
+        "artist": "Bongo Botrako",
+        "album": "Todos Los D\u00edas Sale El Sol",
+        "release_date": "2010-10-31",
+        "duration_ms": 193564,
+        "spotify_url": "https://open.spotify.com/track/00e0clynzXwlnufc9bKdG5"
+    },
+    {
+        "id": "4cQSdff2pkWclGd2EwxRMm",
+        "title": "Llegar\u00e1 la primavera",
+        "artist": "Bongo Botrako",
+        "album": "Todos Los D\u00edas Sale El Sol",
+        "release_date": "2010-10-31",
+        "duration_ms": 166542,
+        "spotify_url": "https://open.spotify.com/track/4cQSdff2pkWclGd2EwxRMm"
+    },
+    {
+        "id": "0ZwMq0WXGZGQvKYyFykK83",
+        "title": "Gira la vida",
+        "artist": "Bongo Botrako",
+        "album": "Todos Los D\u00edas Sale El Sol",
+        "release_date": "2010-10-31",
+        "duration_ms": 168949,
+        "spotify_url": "https://open.spotify.com/track/0ZwMq0WXGZGQvKYyFykK83"
+    },
+    {
+        "id": "5gqGy1bzMwxvHJx2P746Aa",
+        "title": "A contracorriente",
+        "artist": "Disidencia",
+        "album": "Disidencia IV-III-VI -Live Recording-",
+        "release_date": "2006-01-01",
+        "duration_ms": 224106,
+        "spotify_url": "https://open.spotify.com/track/5gqGy1bzMwxvHJx2P746Aa"
+    },
+    {
+        "id": "6P94BiyKGdAC9xOjTTTrwy",
+        "title": "A todos ellos",
+        "artist": "Disidencia",
+        "album": "Disidencia IV-III-VI -Live Recording-",
+        "release_date": "2006-01-01",
+        "duration_ms": 295005,
+        "spotify_url": "https://open.spotify.com/track/6P94BiyKGdAC9xOjTTTrwy"
+    },
+    {
+        "id": "7pGR9cN32vUUhaGc4QWPMy",
+        "title": "Vivo libre",
+        "artist": "Disidencia",
+        "album": "Disidencia IV-III-VI -Live Recording-",
+        "release_date": "2006-01-01",
+        "duration_ms": 180840,
+        "spotify_url": "https://open.spotify.com/track/7pGR9cN32vUUhaGc4QWPMy"
+    },
+    {
+        "id": "6d5kEMR3eU6hWsSnLVmfCP",
+        "title": "Anda suelto santan\u00e1s",
+        "artist": "Disidencia",
+        "album": "Larga vida al... Volumen brutal",
+        "release_date": "2010-07-06",
+        "duration_ms": 179972,
+        "spotify_url": "https://open.spotify.com/track/6d5kEMR3eU6hWsSnLVmfCP"
+    },
+    {
+        "id": "3NHvY2HsBabzhQ7YN7Q6kx",
+        "title": "Soy Una Maquina",
+        "artist": "Hazhe con Falsalarma & Juaninacka",
+        "album": "Meid in Espein",
+        "release_date": "2012-09-04",
+        "duration_ms": 258640,
+        "spotify_url": "https://open.spotify.com/track/3NHvY2HsBabzhQ7YN7Q6kx"
+    },
+    {
+        "id": "2ekK94k4zQaWMWrcAkYeDA",
+        "title": "\u00a1A La Voz De Ya!",
+        "artist": "Falsalarma",
+        "album": "Dramatica",
+        "release_date": "2011-11-15",
+        "duration_ms": 333493,
+        "spotify_url": "https://open.spotify.com/track/2ekK94k4zQaWMWrcAkYeDA"
+    },
+    {
+        "id": "3h2ga3xeFDwm0bvY0TZKXh",
+        "title": "Fieles Con Lo Vivido",
+        "artist": "Falsalarma",
+        "album": "Ley de Vida",
+        "release_date": "2008-04-30",
+        "duration_ms": 332840,
+        "spotify_url": "https://open.spotify.com/track/3h2ga3xeFDwm0bvY0TZKXh"
+    },
+    {
+        "id": "14kp6HJHsYY6iWS4b2jEEA",
+        "title": "Realidad Al Caminar",
+        "artist": "Falsalarma",
+        "album": "Dramatica",
+        "release_date": "2011-11-15",
+        "duration_ms": 287253,
+        "spotify_url": "https://open.spotify.com/track/14kp6HJHsYY6iWS4b2jEEA"
+    },
+    {
+        "id": "1nyLi9h7Nwq1uyr9kanwvf",
+        "title": "Mis Barraqueras",
+        "artist": "Hora Zulu",
+        "album": "Siempre so\u00f1\u00e9 saber sobre nadie nego nunca nada",
+        "release_date": "2012-03-05",
+        "duration_ms": 277600,
+        "spotify_url": "https://open.spotify.com/track/1nyLi9h7Nwq1uyr9kanwvf"
+    },
+    {
+        "id": "3T3qUGQDXhRcB4pkCr2DNZ",
+        "title": "Toma y obliga",
+        "artist": "Hora Zulu",
+        "album": "Creer querer-Querer creer",
+        "release_date": "2008-03-13",
+        "duration_ms": 269213,
+        "spotify_url": "https://open.spotify.com/track/3T3qUGQDXhRcB4pkCr2DNZ"
+    },
+    {
+        "id": "041hRMnoGITiUo8xDyjOgC",
+        "title": "Gabinas De Cochero",
+        "artist": "Hora Zulu",
+        "album": "Siempre so\u00f1\u00e9 saber sobre nadie nego nunca nada",
+        "release_date": "2012-03-05",
+        "duration_ms": 224773,
+        "spotify_url": "https://open.spotify.com/track/041hRMnoGITiUo8xDyjOgC"
+    },
+    {
+        "id": "4j07TkitfIECxi1TF4gwv5",
+        "title": "Que La Tierra Te Sea Leve - S.T.T.L.",
+        "artist": "Hora Zulu",
+        "album": "Siempre so\u00f1\u00e9 saber sobre nadie nego nunca nada",
+        "release_date": "2012-03-05",
+        "duration_ms": 239240,
+        "spotify_url": "https://open.spotify.com/track/4j07TkitfIECxi1TF4gwv5"
+    },
+    {
+        "id": "3n3d1LyTnR5IaT5q6AxL9U",
+        "title": "Alosque",
+        "artist": "La Pegatina",
+        "album": "Via Mandarina",
+        "release_date": "2009-03-24",
+        "duration_ms": 242666,
+        "spotify_url": "https://open.spotify.com/track/3n3d1LyTnR5IaT5q6AxL9U"
+    },
+    {
+        "id": "5ClKabzSX0QXnURNomxohE",
+        "title": "Mari Carmen",
+        "artist": "La Pegatina",
+        "album": "Xapomel\u00f6n",
+        "release_date": "2011-03-15",
+        "duration_ms": 148125,
+        "spotify_url": "https://open.spotify.com/track/5ClKabzSX0QXnURNomxohE"
+    },
+    {
+        "id": "4lIWKtl6SpyTkQXipyAlSa",
+        "title": "Mu\u00e9rdeme",
+        "artist": "La Pegatina",
+        "album": "Xapomel\u00f6n",
+        "release_date": "2011-03-15",
+        "duration_ms": 158808,
+        "spotify_url": "https://open.spotify.com/track/4lIWKtl6SpyTkQXipyAlSa"
+    },
+    {
+        "id": "67gRrJD0CjBdcYZwsNUmsE",
+        "title": "Gat rumberu",
+        "artist": "La Pegatina",
+        "album": "Via Mandarina",
+        "release_date": "2009-03-24",
+        "duration_ms": 155240,
+        "spotify_url": "https://open.spotify.com/track/67gRrJD0CjBdcYZwsNUmsE"
+    },
+    {
+        "id": "4INEQUQXJAdlPfyyRwdQhj",
+        "title": "Miranda",
+        "artist": "La Pegatina",
+        "album": "Via Mandarina",
+        "release_date": "2009-03-24",
+        "duration_ms": 139306,
+        "spotify_url": "https://open.spotify.com/track/4INEQUQXJAdlPfyyRwdQhj"
+    },
+    {
+        "id": "0lDbH9zg01ZuWuxcHkAN8x",
+        "title": "El Lado De Los Rebeldes",
+        "artist": "La Ra\u00edz",
+        "album": "El Lado De Los Rebeldes",
+        "release_date": "2011-03-02",
+        "duration_ms": 232653,
+        "spotify_url": "https://open.spotify.com/track/0lDbH9zg01ZuWuxcHkAN8x"
+    },
+    {
+        "id": "0zytCxMPvCquYFpHMclJwW",
+        "title": "De Mar En Mar",
+        "artist": "La Ra\u00edz",
+        "album": "El Lado De Los Rebeldes",
+        "release_date": "2011-03-02",
+        "duration_ms": 296413,
+        "spotify_url": "https://open.spotify.com/track/0zytCxMPvCquYFpHMclJwW"
+    },
+    {
+        "id": "0yJvRHx41mxeL1kIKf0bpG",
+        "title": "La Voz Del Pueblo",
+        "artist": "La Ra\u00edz",
+        "album": "El Lado De Los Rebeldes",
+        "release_date": "2011-03-02",
+        "duration_ms": 263933,
+        "spotify_url": "https://open.spotify.com/track/0yJvRHx41mxeL1kIKf0bpG"
+    },
+    {
+        "id": "0Vhzt3zYArQF1iVzirdMcU",
+        "title": "Noches En Babylon",
+        "artist": "La Ra\u00edz",
+        "album": "El Lado De Los Rebeldes",
+        "release_date": "2011-03-02",
+        "duration_ms": 220960,
+        "spotify_url": "https://open.spotify.com/track/0Vhzt3zYArQF1iVzirdMcU"
+    },
+    {
+        "id": "7ejM1PlFCvowSDBYGOlYlS",
+        "title": "Amor De Vicio",
+        "artist": "Malos Vicios",
+        "album": "Al Mal Tiempo\u2026 Mala Cara",
+        "release_date": "2002",
+        "duration_ms": 187787,
+        "spotify_url": "https://open.spotify.com/track/7ejM1PlFCvowSDBYGOlYlS"
+    },
+    {
+        "id": "6apuLIrmqpdij2tkjyDSS1",
+        "title": "No Llueve Para Siempre",
+        "artist": "Malos Vicios",
+        "album": "Al Mal Tiempo\u2026 Mala Cara",
+        "release_date": "2002",
+        "duration_ms": 204427,
+        "spotify_url": "https://open.spotify.com/track/6apuLIrmqpdij2tkjyDSS1"
+    },
+    {
+        "id": "4MQ13o9sbVnRYjJo91FdHB",
+        "title": "Encantado de Conocerte",
+        "artist": "Malos Vicios",
+        "album": "Por Amor Al Arte",
+        "release_date": "2004",
+        "duration_ms": 189056,
+        "spotify_url": "https://open.spotify.com/track/4MQ13o9sbVnRYjJo91FdHB"
+    },
+    {
+        "id": "2CCuLWN7tCmDn2HgqgdGku",
+        "title": "La Parodia Nacional",
+        "artist": "Malos Vicios",
+        "album": "Recopilatorio Maldito Vol.1",
+        "release_date": "2006-10-31",
+        "duration_ms": 202387,
+        "spotify_url": "https://open.spotify.com/track/2CCuLWN7tCmDn2HgqgdGku"
+    },
+    {
+        "id": "0TjahGQJa41aXj14Vt2api",
+        "title": "Nino Gramo",
+        "artist": "Manolo Kabezabolo",
+        "album": "2001 la Odisea Va Despazio",
+        "release_date": "2001-05-29",
+        "duration_ms": 61973,
+        "spotify_url": "https://open.spotify.com/track/0TjahGQJa41aXj14Vt2api"
+    },
+    {
+        "id": "4SyrvN52iHlFcUM9vyZ0bJ",
+        "title": "Vista a un Bar Nazi",
+        "artist": "Manolo Kabezabolo",
+        "album": "La Nueva Mayor\u00eda",
+        "release_date": "1997-03-04",
+        "duration_ms": 42493,
+        "spotify_url": "https://open.spotify.com/track/4SyrvN52iHlFcUM9vyZ0bJ"
+    },
+    {
+        "id": "1qgKyCmoWQU2C9YX3dO2nn",
+        "title": "Aznar",
+        "artist": "Manolo Kabezabolo",
+        "album": "La Nueva Mayor\u00eda",
+        "release_date": "1997-03-04",
+        "duration_ms": 32720,
+        "spotify_url": "https://open.spotify.com/track/1qgKyCmoWQU2C9YX3dO2nn"
+    },
+    {
+        "id": "2rTFatzuxPjENCcGSa78T9",
+        "title": "Kuando Revientes",
+        "artist": "Manolo Kabezabolo",
+        "album": "2001 la Odisea Va Despazio",
+        "release_date": "2001-05-29",
+        "duration_ms": 74986,
+        "spotify_url": "https://open.spotify.com/track/2rTFatzuxPjENCcGSa78T9"
+    },
+    {
+        "id": "5ADj8tzVlOFsdZvML5xBV0",
+        "title": "Spoilers (feat. Tote King)",
+        "artist": "Matador rockers",
+        "album": "Esto tenia que pasar",
+        "release_date": "2011-11-04",
+        "duration_ms": 281453,
+        "spotify_url": "https://open.spotify.com/track/5ADj8tzVlOFsdZvML5xBV0"
+    },
+    {
+        "id": "5eoYRvYhIIfDY8cpIOlBzx",
+        "title": "Te dejo tocao (feat. Tremendo)",
+        "artist": "Matador rockers",
+        "album": "Esto tenia que pasar",
+        "release_date": "2011-11-04",
+        "duration_ms": 202160,
+        "spotify_url": "https://open.spotify.com/track/5eoYRvYhIIfDY8cpIOlBzx"
+    },
+    {
+        "id": "0minMqHLBSSyDVtnSee8BJ",
+        "title": "Acu\u00e9rdate (feat. bass bassilio)",
+        "artist": "Matador rockers",
+        "album": "Esto tenia que pasar",
+        "release_date": "2011-11-04",
+        "duration_ms": 216373,
+        "spotify_url": "https://open.spotify.com/track/0minMqHLBSSyDVtnSee8BJ"
+    },
+    {
+        "id": "22lZnNnD8uK8MeybEueOfy",
+        "title": "T\u00f3mate tu tiempo (feat. Chacho Brodas)",
+        "artist": "Matador rockers",
+        "album": "Esto tenia que pasar",
+        "release_date": "2011-11-04",
+        "duration_ms": 217066,
+        "spotify_url": "https://open.spotify.com/track/22lZnNnD8uK8MeybEueOfy"
+    },
+    {
+        "id": "5yNa3IMRSCCju1jAvy2v1E",
+        "title": "Esta To Feo con Rapsusklei",
+        "artist": "SFDK",
+        "album": "Lista de invitados",
+        "release_date": "2011-12-13",
+        "duration_ms": 230120,
+        "spotify_url": "https://open.spotify.com/track/5yNa3IMRSCCju1jAvy2v1E"
+    },
+    {
+        "id": "1bUrKF0kIyAaOeDvBTmZwJ",
+        "title": "Dando y Perdiendo",
+        "artist": "Rapsusklei",
+        "album": "Pandemia",
+        "release_date": "2010-05-14",
+        "duration_ms": 192160,
+        "spotify_url": "https://open.spotify.com/track/1bUrKF0kIyAaOeDvBTmZwJ"
+    },
+    {
+        "id": "1FmKyJ8S6GnhR42ajbVVVl",
+        "title": "Cierra La Boca",
+        "artist": "Hazhe con Rapsusklei & Woyza",
+        "album": "Meid in Espein",
+        "release_date": "2012-09-04",
+        "duration_ms": 224240,
+        "spotify_url": "https://open.spotify.com/track/1FmKyJ8S6GnhR42ajbVVVl"
+    },
+    {
+        "id": "0n009Zq72NZXcoyydEX0Dr",
+        "title": "Te Quiero",
+        "artist": "Rapsusklei",
+        "album": "Pandemia",
+        "release_date": "2010-05-14",
+        "duration_ms": 257546,
+        "spotify_url": "https://open.spotify.com/track/0n009Zq72NZXcoyydEX0Dr"
+    },
+    {
+        "id": "2jAjxPKbOOq7SsHzolaIwj",
+        "title": "Las drogas",
+        "artist": "Segismundo Toxic\u00f3mano",
+        "album": "Balance de da\u00f1os - Los mejores da\u00f1os de nuestras vidas -Live Recording- CD 1",
+        "release_date": "2007-01-01",
+        "duration_ms": 146760,
+        "spotify_url": "https://open.spotify.com/track/2jAjxPKbOOq7SsHzolaIwj"
+    },
+    {
+        "id": "22yDxLWzPDVUPfvPEVpKPQ",
+        "title": "Por ti",
+        "artist": "Segismundo Toxic\u00f3mano",
+        "album": "Escapa!",
+        "release_date": "2003-01-01",
+        "duration_ms": 163757,
+        "spotify_url": "https://open.spotify.com/track/22yDxLWzPDVUPfvPEVpKPQ"
+    },
+    {
+        "id": "0kigbZwsCx8YwadYKIXJsw",
+        "title": "Kien Vigila Al Ke Vigila?",
+        "artist": "Segismundo Toxic\u00f3mano",
+        "album": "Ke No Cunda el P\u00e1nico",
+        "release_date": "2011-10-10",
+        "duration_ms": 192920,
+        "spotify_url": "https://open.spotify.com/track/0kigbZwsCx8YwadYKIXJsw"
+    },
+    {
+        "id": "0cisvxLSjCpbO3LUbWlbLx",
+        "title": "Contra el Muro",
+        "artist": "Segismundo Toxic\u00f3mano",
+        "album": "Ke No Cunda el P\u00e1nico",
+        "release_date": "2011-10-10",
+        "duration_ms": 214720,
+        "spotify_url": "https://open.spotify.com/track/0cisvxLSjCpbO3LUbWlbLx"
+    },
+    {
+        "id": "4G6ERmJLv2EqrrHmgF0NJz",
+        "title": "Desenphreno Forte",
+        "artist": "Sujeto K",
+        "album": "Sujetokaina",
+        "release_date": "2010-03-11",
+        "duration_ms": 190146,
+        "spotify_url": "https://open.spotify.com/track/4G6ERmJLv2EqrrHmgF0NJz"
+    },
+    {
+        "id": "5z3CVvaRDbYeV6Rv2OTJ0B",
+        "title": "Larrigui",
+        "artist": "Sujeto K",
+        "album": "Sujetokaina",
+        "release_date": "2010-03-11",
+        "duration_ms": 326466,
+        "spotify_url": "https://open.spotify.com/track/5z3CVvaRDbYeV6Rv2OTJ0B"
+    },
+    {
+        "id": "4hdOSat1ZKtPUe36D4i141",
+        "title": "Pitufando En Jefatura",
+        "artist": "Sujeto K",
+        "album": "Sujetokaina",
+        "release_date": "2010-03-11",
+        "duration_ms": 278653,
+        "spotify_url": "https://open.spotify.com/track/4hdOSat1ZKtPUe36D4i141"
+    },
+    {
+        "id": "3eqM950aihvcUzxmJPS8Zc",
+        "title": "Resujetokate",
+        "artist": "Sujeto K",
+        "album": "Resujetokados",
+        "release_date": "2007",
+        "duration_ms": 193373,
+        "spotify_url": "https://open.spotify.com/track/3eqM950aihvcUzxmJPS8Zc"
+    },
+    {
+        "id": "20CXIdI3L43rjNv3MhsI3E",
+        "title": "La Torre",
+        "artist": "Talco",
+        "album": "Mazel Tov",
+        "release_date": "2008",
+        "duration_ms": 170506,
+        "spotify_url": "https://open.spotify.com/track/20CXIdI3L43rjNv3MhsI3E"
+    },
+    {
+        "id": "3wXxRnuusskrRNqCVVRl22",
+        "title": "St. Pauli (Bonus)",
+        "artist": "Talco",
+        "album": "Mazel Tov",
+        "release_date": "2008",
+        "duration_ms": 152146,
+        "spotify_url": "https://open.spotify.com/track/3wXxRnuusskrRNqCVVRl22"
+    },
+    {
+        "id": "3HrwiqEOErgWeXAXm3ppHp",
+        "title": "La mano de Dios",
+        "artist": "Talco",
+        "album": "Mazel Tov",
+        "release_date": "2008",
+        "duration_ms": 214773,
+        "spotify_url": "https://open.spotify.com/track/3HrwiqEOErgWeXAXm3ppHp"
+    },
+    {
+        "id": "7cH0ovSieuzxd2u9ToiHCd",
+        "title": "Tortuga",
+        "artist": "Talco",
+        "album": "Combat Circus",
+        "release_date": "2010-01-01",
+        "duration_ms": 238053,
+        "spotify_url": "https://open.spotify.com/track/7cH0ovSieuzxd2u9ToiHCd"
+    },
+    {
+        "id": "57eKniBuTtwLbA7L02i6BB",
+        "title": "Spiders in the Dressing Room",
+        "artist": "The Toy Dolls",
+        "album": "Treasured Tracks",
+        "release_date": "2006-01-01",
+        "duration_ms": 122146,
+        "spotify_url": "https://open.spotify.com/track/57eKniBuTtwLbA7L02i6BB"
+    },
+    {
+        "id": "1P6Xe9cidK8ypjROIHAJn3",
+        "title": "Dig That Groove Baby",
+        "artist": "The Toy Dolls",
+        "album": "Treasured Tracks",
+        "release_date": "2006-01-01",
+        "duration_ms": 207906,
+        "spotify_url": "https://open.spotify.com/track/1P6Xe9cidK8ypjROIHAJn3"
+    },
+    {
+        "id": "2FPMC8nhsSc4FYg5aoOGWE",
+        "title": "Tommy Kowey's Car",
+        "artist": "The Toy Dolls",
+        "album": "Treasured Tracks",
+        "release_date": "2006-01-01",
+        "duration_ms": 156893,
+        "spotify_url": "https://open.spotify.com/track/2FPMC8nhsSc4FYg5aoOGWE"
+    },
+    {
+        "id": "1YDCodBtjqK9ZtmOwQXkFZ",
+        "title": "I've Had Enough O Magaluf",
+        "artist": "The Toy Dolls",
+        "album": "Treasured Tracks",
+        "release_date": "2006-01-01",
+        "duration_ms": 169133,
+        "spotify_url": "https://open.spotify.com/track/1YDCodBtjqK9ZtmOwQXkFZ"
+    },
+    {
+        "id": "7z51lDonYJoSxJYMWXh6Jz",
+        "title": "Mi Pol\u00edtica",
+        "artist": "ToteKing",
+        "album": "Mi Pol\u00edtica",
+        "release_date": "2012-09-25",
+        "duration_ms": 213026,
+        "spotify_url": "https://open.spotify.com/track/7z51lDonYJoSxJYMWXh6Jz"
+    },
+    {
+        "id": "2KtmYBDI6JRlzcZ8RWSFJm",
+        "title": "Me Gusta",
+        "artist": "Shotta",
+        "album": "Sangre",
+        "release_date": "2008-03-10",
+        "duration_ms": 229479,
+        "spotify_url": "https://open.spotify.com/track/2KtmYBDI6JRlzcZ8RWSFJm"
+    },
+    {
+        "id": "3zoenHB21Z97Izfm8XLHiZ",
+        "title": "Ven con Shotta",
+        "artist": "ToteKing",
+        "album": "T.O.T.E.",
+        "release_date": "2008-11-26",
+        "duration_ms": 224506,
+        "spotify_url": "https://open.spotify.com/track/3zoenHB21Z97Izfm8XLHiZ"
+    },
+    {
+        "id": "2rI5RVEbF24aTVW6ijm6Pf",
+        "title": "La infanta (con Toteking)",
+        "artist": "Shotta",
+        "album": "La Selva",
+        "release_date": "2004-01-01",
+        "duration_ms": 239556,
+        "spotify_url": "https://open.spotify.com/track/2rI5RVEbF24aTVW6ijm6Pf"
+    },
+    {
+        "id": "3tgQdXOSVBgb1kwTe8JZTB",
+        "title": "Penelope",
+        "artist": "Trashtucada",
+        "album": "Y No Es Broma",
+        "release_date": "2008-08-16",
+        "duration_ms": 335293,
+        "spotify_url": "https://open.spotify.com/track/3tgQdXOSVBgb1kwTe8JZTB"
+    },
+    {
+        "id": "3lTeB6raGMN0dDX8BGrEms",
+        "title": "De Festi? Vale",
+        "artist": "Trashtucada",
+        "album": "T\u00edrate Del Puente",
+        "release_date": "2011-11-02",
+        "duration_ms": 215053,
+        "spotify_url": "https://open.spotify.com/track/3lTeB6raGMN0dDX8BGrEms"
+    },
+    {
+        "id": "24ejBzFGJn71GQKeMYUxMH",
+        "title": "K.O. Boeing 747",
+        "artist": "Trashtucada",
+        "album": "T\u00edrate Del Puente",
+        "release_date": "2011-11-02",
+        "duration_ms": 223560,
+        "spotify_url": "https://open.spotify.com/track/24ejBzFGJn71GQKeMYUxMH"
+    },
+    {
+        "id": "3QIbDacfIwy2LntV0Z8plu",
+        "title": "Ni\u00f1ato",
+        "artist": "Trashtucada",
+        "album": "T\u00edrate Del Puente",
+        "release_date": "2011-11-02",
+        "duration_ms": 292120,
+        "spotify_url": "https://open.spotify.com/track/3QIbDacfIwy2LntV0Z8plu"
+    },
+    {
+        "id": "16HMPIcp4ibjElYp2SYfO0",
+        "title": "La Chispa Adecuada",
+        "artist": "Uzzhua\u00efa",
+        "album": "Uzzhua\u00efa",
+        "release_date": "2006-09-01",
+        "duration_ms": 242346,
+        "spotify_url": "https://open.spotify.com/track/16HMPIcp4ibjElYp2SYfO0"
+    },
+    {
+        "id": "7KrDG4hthuVgS9tU65G3Rq",
+        "title": "13 Veces Por Minuto",
+        "artist": "Uzzhua\u00efa",
+        "album": "13 Veces Por Minuto",
+        "release_date": "2010-10-19",
+        "duration_ms": 203706,
+        "spotify_url": "https://open.spotify.com/track/7KrDG4hthuVgS9tU65G3Rq"
+    },
+    {
+        "id": "64OuTW7lBeKWbbX0fmg6xX",
+        "title": "Don'T Let Daddy Kiss Me",
+        "artist": "Uzzhua\u00efa",
+        "album": "No Intentes Volver Atr\u00e1s",
+        "release_date": "2006-06-01",
+        "duration_ms": 290800,
+        "spotify_url": "https://open.spotify.com/track/64OuTW7lBeKWbbX0fmg6xX"
+    },
+    {
+        "id": "7wmxUctopEO1PvjnwpgAmr",
+        "title": "Destino Perdici\u00f3n",
+        "artist": "Uzzhua\u00efa",
+        "album": "Destino Perdici\u00f3n",
+        "release_date": "2006",
+        "duration_ms": 238880,
+        "spotify_url": "https://open.spotify.com/track/7wmxUctopEO1PvjnwpgAmr"
+    },
+    {
+        "id": "6b5QmwyIVfuzHRisdBNEtC",
+        "title": "T\u00fa mismo",
+        "artist": "Warcry",
+        "album": "El sello de los tiempos",
+        "release_date": "2002-11-01",
+        "duration_ms": 275293,
+        "spotify_url": "https://open.spotify.com/track/6b5QmwyIVfuzHRisdBNEtC"
+    },
+    {
+        "id": "0Xiz0Yui3svCGYzRjIJQmA",
+        "title": "Nana",
+        "artist": "Warcry",
+        "album": "Warcry",
+        "release_date": "2002-04-20",
+        "duration_ms": 247786,
+        "spotify_url": "https://open.spotify.com/track/0Xiz0Yui3svCGYzRjIJQmA"
+    },
+    {
+        "id": "4miz3iDIRbIoFl5xjnp2sG",
+        "title": "Nada como t\u00fa",
+        "artist": "Warcry",
+        "album": "Revoluci\u00f3n",
+        "release_date": "2008-09-23",
+        "duration_ms": 262760,
+        "spotify_url": "https://open.spotify.com/track/4miz3iDIRbIoFl5xjnp2sG"
+    },
+    {
+        "id": "3pnXr3NXSzQ0TAoWnxKSGZ",
+        "title": "El guardi\u00e1n de Troya",
+        "artist": "Warcry",
+        "album": "Alea Jacta Est",
+        "release_date": "2004-01-01",
+        "duration_ms": 366440,
+        "spotify_url": "https://open.spotify.com/track/3pnXr3NXSzQ0TAoWnxKSGZ"
+    },
+    {
+        "id": "02r7Mu27qnamVpBErGdGCo",
+        "title": "Por si no te vuelvo a ver",
+        "artist": "Zulu 9.30",
+        "album": "Tiempo al tiempo",
+        "release_date": "2011-04-04",
+        "duration_ms": 224440,
+        "spotify_url": "https://open.spotify.com/track/02r7Mu27qnamVpBErGdGCo"
+    },
+    {
+        "id": "5QXVRJWtcZo5qaDpU7BN4C",
+        "title": "Mar\u00eda",
+        "artist": "Zulu 9.30",
+        "album": "Conecta O Revienta",
+        "release_date": "2006-04-11",
+        "duration_ms": 241680,
+        "spotify_url": "https://open.spotify.com/track/5QXVRJWtcZo5qaDpU7BN4C"
+    },
+    {
+        "id": "59NLSw47WOSNkuZQdawWSE",
+        "title": "Sin prisa",
+        "artist": "Zulu 9.30",
+        "album": "Tiempo al tiempo",
+        "release_date": "2011-04-04",
+        "duration_ms": 199560,
+        "spotify_url": "https://open.spotify.com/track/59NLSw47WOSNkuZQdawWSE"
+    },
+    {
+        "id": "3Udb7Zdl7YprgQsWBwC0D3",
+        "title": "La tierra tiene hambre",
+        "artist": "Zulu 9.30",
+        "album": "Tiempo al tiempo",
+        "release_date": "2011-04-04",
+        "duration_ms": 215026,
+        "spotify_url": "https://open.spotify.com/track/3Udb7Zdl7YprgQsWBwC0D3"
+    },
+    {
+        "id": "3fEEbbRZEWVP1FzGwSLfxA",
+        "title": "Cannabis",
+        "artist": "Ska-P",
+        "album": "Incontrolable",
+        "release_date": "2003-10-30",
+        "duration_ms": 325946,
+        "spotify_url": "https://open.spotify.com/track/3fEEbbRZEWVP1FzGwSLfxA"
+    },
+    {
+        "id": "6huVmxA8WdA7ArpX21kyKs",
+        "title": "El Vals Del Obrero",
+        "artist": "Ska-P",
+        "album": "Incontrolable",
+        "release_date": "2003-10-30",
+        "duration_ms": 346986,
+        "spotify_url": "https://open.spotify.com/track/6huVmxA8WdA7ArpX21kyKs"
+    },
+    {
+        "id": "4m3OKmzYSFhtNvl7zhl9fI",
+        "title": "Ni\u00f1o Soldado",
+        "artist": "Ska-P",
+        "album": "Incontrolable",
+        "release_date": "2003-10-30",
+        "duration_ms": 239853,
+        "spotify_url": "https://open.spotify.com/track/4m3OKmzYSFhtNvl7zhl9fI"
+    },
+    {
+        "id": "4CxJOwb9VhBOLTwHf77WsO",
+        "title": "Mis Colegas",
+        "artist": "Ska-P",
+        "album": "Incontrolable",
+        "release_date": "2003-10-30",
+        "duration_ms": 256240,
+        "spotify_url": "https://open.spotify.com/track/4CxJOwb9VhBOLTwHf77WsO"
+    },
+    {
+        "id": "4CSD0AB4DphJR5R9mVMoFE",
+        "title": "El Gato Lopez - Directo",
+        "artist": "Ska-P",
+        "album": "Incontrolable",
+        "release_date": "2003-10-30",
+        "duration_ms": 164920,
+        "spotify_url": "https://open.spotify.com/track/4CSD0AB4DphJR5R9mVMoFE"
+    },
+    {
+        "id": "44Pnnh6MsEsk8BSEqJKSLZ",
+        "title": "La Flor de la Palabra",
+        "artist": "Amparo S\u00e1nchez",
+        "album": "Alma de Cantaora",
+        "release_date": "2012-09-24",
+        "duration_ms": 263253,
+        "spotify_url": "https://open.spotify.com/track/44Pnnh6MsEsk8BSEqJKSLZ"
+    },
+    {
+        "id": "0AXjcPtkCr1FWms6YWA89n",
+        "title": "La Ley de Murphy",
+        "artist": "Arianna Puello",
+        "album": "La Fecha",
+        "release_date": "2001",
+        "duration_ms": 281986,
+        "spotify_url": "https://open.spotify.com/track/0AXjcPtkCr1FWms6YWA89n"
+    },
+    {
+        "id": "4LAj0B7XK4lAmmI70kJsSC",
+        "title": "Juana Kalamidad",
+        "artist": "Arianna Puello",
+        "album": "13 razones",
+        "release_date": "2008",
+        "duration_ms": 292066,
+        "spotify_url": "https://open.spotify.com/track/4LAj0B7XK4lAmmI70kJsSC"
+    },
+    {
+        "id": "5dB4pK3yxLXrI3N4tQK3Ky",
+        "title": "Oye lo que traigo",
+        "artist": "Arianna Puello",
+        "album": "Gancho Perfecto",
+        "release_date": "1999",
+        "duration_ms": 296360,
+        "spotify_url": "https://open.spotify.com/track/5dB4pK3yxLXrI3N4tQK3Ky"
+    },
+    {
+        "id": "6RasQyOsr0iDEwKSNWYVP1",
+        "title": "A Mocidade Activa",
+        "artist": "Dakidarria",
+        "album": "...Utop\u00edas Emergentes",
+        "release_date": "2011-11-29",
+        "duration_ms": 228053,
+        "spotify_url": "https://open.spotify.com/track/6RasQyOsr0iDEwKSNWYVP1"
+    },
+    {
+        "id": "44WetwMmpSLGV3CMZQsLbK",
+        "title": "Despertar",
+        "artist": "Dakidarria",
+        "album": "Realidades Alienantes...",
+        "release_date": "2010-01-04",
+        "duration_ms": 236026,
+        "spotify_url": "https://open.spotify.com/track/44WetwMmpSLGV3CMZQsLbK"
+    },
+    {
+        "id": "4wHgo3sRAgFh3mYZJuYABN",
+        "title": "Terra",
+        "artist": "Dakidarria",
+        "album": "...Utop\u00edas Emergentes",
+        "release_date": "2011-11-29",
+        "duration_ms": 225280,
+        "spotify_url": "https://open.spotify.com/track/4wHgo3sRAgFh3mYZJuYABN"
+    },
+    {
+        "id": "3sTcIyToe1wPgybYfySpA2",
+        "title": "Sigue Ardiendo",
+        "artist": "Dakidarria",
+        "album": "...Utop\u00edas Emergentes",
+        "release_date": "2011-11-29",
+        "duration_ms": 216106,
+        "spotify_url": "https://open.spotify.com/track/3sTcIyToe1wPgybYfySpA2"
+    },
+    {
+        "id": "7dzHPBtp7FsR6kqf7DMyoe",
+        "title": "Ahora o nunca con Darmo & Carmona",
+        "artist": "Iv\u00e1n Nieto",
+        "album": "Maleza",
+        "release_date": "2012-04-24",
+        "duration_ms": 266706,
+        "spotify_url": "https://open.spotify.com/track/7dzHPBtp7FsR6kqf7DMyoe"
+    },
+    {
+        "id": "19HtigZxBuEuzBa9OupGbT",
+        "title": "Fuego",
+        "artist": "Darmo",
+        "album": "Un Camino Inestable",
+        "release_date": "2011-02-22",
+        "duration_ms": 212706,
+        "spotify_url": "https://open.spotify.com/track/19HtigZxBuEuzBa9OupGbT"
+    },
+    {
+        "id": "5aURBJ61I6ZRxGAb2uw0Jc",
+        "title": "Curro Y Sacrificio con Darmo - colabora Alba",
+        "artist": "SFDK",
+        "album": "Lista de invitados",
+        "release_date": "2011-12-13",
+        "duration_ms": 264120,
+        "spotify_url": "https://open.spotify.com/track/5aURBJ61I6ZRxGAb2uw0Jc"
+    },
+    {
+        "id": "1G9TV1TWdz1gWiJ4IfAJDq",
+        "title": "Ni\u00f1o Ruina",
+        "artist": "Carmona feat. Darmo & Iv\u00e1n Nieto & Moreno & Neiz",
+        "album": "Por Necesidad",
+        "release_date": "2012-10-16",
+        "duration_ms": 336013,
+        "spotify_url": "https://open.spotify.com/track/1G9TV1TWdz1gWiJ4IfAJDq"
+    },
+    {
+        "id": "4Ddac1auZ5h2lsQkthGvQP",
+        "title": "Sue\u00f1o de una noche de verano",
+        "artist": "Delahoja",
+        "album": "El Mordisco",
+        "release_date": "2009-02-01",
+        "duration_ms": 272904,
+        "spotify_url": "https://open.spotify.com/track/4Ddac1auZ5h2lsQkthGvQP"
+    },
+    {
+        "id": "2H8DOYphqJ6aOgClgp5jJq",
+        "title": "Nuestra B.S.O.",
+        "artist": "Delahoja",
+        "album": "Nuestra B.S.O.",
+        "release_date": "2010-10-26",
+        "duration_ms": 317911,
+        "spotify_url": "https://open.spotify.com/track/2H8DOYphqJ6aOgClgp5jJq"
+    },
+    {
+        "id": "6NiIZelADluhjta7dA7mie",
+        "title": "Mi Melod\u00eda",
+        "artist": "Delahoja",
+        "album": "El Mordisco",
+        "release_date": "2009-02-01",
+        "duration_ms": 253091,
+        "spotify_url": "https://open.spotify.com/track/6NiIZelADluhjta7dA7mie"
+    },
+    {
+        "id": "6UOSh6vsNPSrOJjY1KLRlD",
+        "title": "Gamba",
+        "artist": "Delahoja",
+        "album": "El Mordisco",
+        "release_date": "2009-02-01",
+        "duration_ms": 194037,
+        "spotify_url": "https://open.spotify.com/track/6UOSh6vsNPSrOJjY1KLRlD"
+    },
+    {
+        "id": "1G6NpSoSlF1G13uaALNK8G",
+        "title": "Cada vez",
+        "artist": "Desakato",
+        "album": "Miseria, Sangre y Plomo",
+        "release_date": "2011-03-01",
+        "duration_ms": 332306,
+        "spotify_url": "https://open.spotify.com/track/1G6NpSoSlF1G13uaALNK8G"
+    },
+    {
+        "id": "7IqF3FHn2cqv1VqKGX7mCs",
+        "title": "Octubres rotos",
+        "artist": "Desakato",
+        "album": "Con el viento de cara",
+        "release_date": "2011-03-01",
+        "duration_ms": 201105,
+        "spotify_url": "https://open.spotify.com/track/7IqF3FHn2cqv1VqKGX7mCs"
+    },
+    {
+        "id": "3ODjutKByhyYCrtC1kxOJf",
+        "title": "A la soledad",
+        "artist": "Desakato",
+        "album": "Con el viento de cara",
+        "release_date": "2011-03-01",
+        "duration_ms": 281318,
+        "spotify_url": "https://open.spotify.com/track/3ODjutKByhyYCrtC1kxOJf"
+    },
+    {
+        "id": "5OTs4pT02if7J5gcuhDBhd",
+        "title": "Los mineros",
+        "artist": "Desakato",
+        "album": "Con el viento de cara",
+        "release_date": "2011-03-01",
+        "duration_ms": 260199,
+        "spotify_url": "https://open.spotify.com/track/5OTs4pT02if7J5gcuhDBhd"
+    },
+    {
+        "id": "4TGUrVEZb6oabTQ7zK42oI",
+        "title": "Dremen Day",
+        "artist": "Dremen",
+        "album": "Dremen Day",
+        "release_date": "2011-02-02",
+        "duration_ms": 243900,
+        "spotify_url": "https://open.spotify.com/track/4TGUrVEZb6oabTQ7zK42oI"
+    },
+    {
+        "id": "6OAOmS15ecO6KFCUEMPdjO",
+        "title": "Bon Dem",
+        "artist": "Dremen",
+        "album": "Dremen Day",
+        "release_date": "2011-02-02",
+        "duration_ms": 235910,
+        "spotify_url": "https://open.spotify.com/track/6OAOmS15ecO6KFCUEMPdjO"
+    },
+    {
+        "id": "7mHUZAVY3oVwnNF8XOM0jW",
+        "title": "Fuera de control Remix - Remix",
+        "artist": "Dremen",
+        "album": "Dremen Day",
+        "release_date": "2011-02-02",
+        "duration_ms": 269747,
+        "spotify_url": "https://open.spotify.com/track/7mHUZAVY3oVwnNF8XOM0jW"
+    },
+    {
+        "id": "5FCJqquW7ybiXYMO6Myftl",
+        "title": "La corona",
+        "artist": "Dremen",
+        "album": "Dremen Day",
+        "release_date": "2011-02-02",
+        "duration_ms": 202726,
+        "spotify_url": "https://open.spotify.com/track/5FCJqquW7ybiXYMO6Myftl"
+    },
+    {
+        "id": "3NHvY2HsBabzhQ7YN7Q6kx",
+        "title": "Soy Una Maquina",
+        "artist": "Hazhe con Falsalarma & Juaninacka",
+        "album": "Meid in Espein",
+        "release_date": "2012-09-04",
+        "duration_ms": 258640,
+        "spotify_url": "https://open.spotify.com/track/3NHvY2HsBabzhQ7YN7Q6kx"
+    },
+    {
+        "id": "4YM7qlmOn4XNb9n4U9zDTg",
+        "title": "Es B\u00e1sico",
+        "artist": "Juaninacka",
+        "album": "Hellboyz",
+        "release_date": "2011-06-07",
+        "duration_ms": 216466,
+        "spotify_url": "https://open.spotify.com/track/4YM7qlmOn4XNb9n4U9zDTg"
+    },
+    {
+        "id": "0inNd6pFM6ByzxhgNisCfC",
+        "title": "A ti",
+        "artist": "Juaninacka",
+        "album": "Rap es Amor",
+        "release_date": "2012-02-07",
+        "duration_ms": 235226,
+        "spotify_url": "https://open.spotify.com/track/0inNd6pFM6ByzxhgNisCfC"
+    },
+    {
+        "id": "4Py5GjOvv9z8qfVs6GSAtI",
+        "title": "No Se",
+        "artist": "Juaninacka",
+        "album": "Hellboyz",
+        "release_date": "2011-06-07",
+        "duration_ms": 191133,
+        "spotify_url": "https://open.spotify.com/track/4Py5GjOvv9z8qfVs6GSAtI"
+    },
+    {
+        "id": "39lNLMUrBcJMHRY5sgtKvr",
+        "title": "La Calle Esta Candela con La Excepcion Y Little Pepe",
+        "artist": "SFDK",
+        "album": "Lista de invitados",
+        "release_date": "2011-12-13",
+        "duration_ms": 210120,
+        "spotify_url": "https://open.spotify.com/track/39lNLMUrBcJMHRY5sgtKvr"
+    },
+    {
+        "id": "538zkgS4TUwhZYMDzXoKUR",
+        "title": "Oye Compai",
+        "artist": "La Excepcion",
+        "album": "Cata Cheli",
+        "release_date": "2003-05-23",
+        "duration_ms": 243479,
+        "spotify_url": "https://open.spotify.com/track/538zkgS4TUwhZYMDzXoKUR"
+    },
+    {
+        "id": "6iGpRHW58tliOUIKBEGnN0",
+        "title": "Cataplasma",
+        "artist": "Hazhe con La Excepcion",
+        "album": "Meid in Espein",
+        "release_date": "2012-09-04",
+        "duration_ms": 310706,
+        "spotify_url": "https://open.spotify.com/track/6iGpRHW58tliOUIKBEGnN0"
+    },
+    {
+        "id": "5yuUYd918azQ1j8wVmUi4l",
+        "title": "Amos Chacho",
+        "artist": "La Excepcion",
+        "album": "Cata Cheli",
+        "release_date": "2003-05-23",
+        "duration_ms": 269693,
+        "spotify_url": "https://open.spotify.com/track/5yuUYd918azQ1j8wVmUi4l"
+    },
+    {
+        "id": "6JYDC4ph7C4yKPLHa691MF",
+        "title": "Tu destino",
+        "artist": "Leo Jim\u00e9nez",
+        "album": "Tu destino",
+        "release_date": "2012-07-24",
+        "duration_ms": 311906,
+        "spotify_url": "https://open.spotify.com/track/6JYDC4ph7C4yKPLHa691MF"
+    },
+    {
+        "id": "3JK0imCfMrlsmo97bo197y",
+        "title": "T.E.R.R.O.R.I.S.M.O.",
+        "artist": "Los Chikos del Maiz con Habeas Corpus",
+        "album": "Pasion de Talibanes, el D.V.D.",
+        "release_date": "2012-09-04",
+        "duration_ms": 233596,
+        "spotify_url": "https://open.spotify.com/track/3JK0imCfMrlsmo97bo197y"
+    },
+    {
+        "id": "10OzbnMs6LsjJpSvjeNSXL",
+        "title": "A Pu\u00f1etazos Con los Abrazos",
+        "artist": "Silencio Absoluto",
+        "album": "A Pu\u00f1etazos Con los Abrazos",
+        "release_date": "2012-03-20",
+        "duration_ms": 250653,
+        "spotify_url": "https://open.spotify.com/track/10OzbnMs6LsjJpSvjeNSXL"
+    },
+    {
+        "id": "5MFyPmMVYYenStRwADRQWP",
+        "title": "A Lomos de un Rokanrol",
+        "artist": "Silencio Absoluto",
+        "album": "A Pu\u00f1etazos Con los Abrazos",
+        "release_date": "2012-03-20",
+        "duration_ms": 269653,
+        "spotify_url": "https://open.spotify.com/track/5MFyPmMVYYenStRwADRQWP"
+    },
+    {
+        "id": "6WTrdiMdSb3bDfQ9YswW9W",
+        "title": "Ni\u00f1a Estate Quieta",
+        "artist": "Silencio Absoluto",
+        "album": "A Pu\u00f1etazos Con los Abrazos",
+        "release_date": "2012-03-20",
+        "duration_ms": 234813,
+        "spotify_url": "https://open.spotify.com/track/6WTrdiMdSb3bDfQ9YswW9W"
+    },
+    {
+        "id": "2NeTYIbdEcuIKYrz5DX7Zb",
+        "title": "Que te Luzca Siempre una Sonrisa",
+        "artist": "Silencio Absoluto",
+        "album": "A Pu\u00f1etazos Con los Abrazos",
+        "release_date": "2012-03-20",
+        "duration_ms": 231600,
+        "spotify_url": "https://open.spotify.com/track/2NeTYIbdEcuIKYrz5DX7Zb"
+    },
+    {
+        "id": "0JZbtG27NBI5kgMIpMfBMU",
+        "title": "Les Arrels feat. Obrint Pas and Voltor",
+        "artist": "Termofrigidus",
+        "album": "El Opio Del Pueblo",
+        "release_date": "2012-02-24",
+        "duration_ms": 213946,
+        "spotify_url": "https://open.spotify.com/track/0JZbtG27NBI5kgMIpMfBMU"
+    },
+    {
+        "id": "3FB0CRvLw02cKGTVpvgcbC",
+        "title": "RATM (Reggae Against The Machine)",
+        "artist": "Termofrigidus",
+        "album": "El Opio Del Pueblo",
+        "release_date": "2012-02-24",
+        "duration_ms": 212600,
+        "spotify_url": "https://open.spotify.com/track/3FB0CRvLw02cKGTVpvgcbC"
+    },
+    {
+        "id": "20x6kSLL4J3rwM7ZJTxLv4",
+        "title": "El Opio Del Pueblo",
+        "artist": "Termofrigidus",
+        "album": "El Opio Del Pueblo",
+        "release_date": "2012-02-24",
+        "duration_ms": 232426,
+        "spotify_url": "https://open.spotify.com/track/20x6kSLL4J3rwM7ZJTxLv4"
+    },
+    {
+        "id": "5T4ROOf6OpnyYAUrxXVaem",
+        "title": "Lucifer",
+        "artist": "Termofrigidus",
+        "album": "El Opio Del Pueblo",
+        "release_date": "2012-02-24",
+        "duration_ms": 202626,
+        "spotify_url": "https://open.spotify.com/track/5T4ROOf6OpnyYAUrxXVaem"
+    },
+    {
+        "id": "415FshSBRtCi7GR8kE54Ob",
+        "title": "La Dansa del Vestit",
+        "artist": "Txarango",
+        "album": "Benvinguts al Llarg Viatge",
+        "release_date": "2012-05-11",
+        "duration_ms": 217600,
+        "spotify_url": "https://open.spotify.com/track/415FshSBRtCi7GR8kE54Ob"
+    },
+    {
+        "id": "4jFoAHaZtbEoZ6OlfvKgTJ",
+        "title": "Vola",
+        "artist": "Txarango",
+        "album": "Benvinguts al Llarg Viatge",
+        "release_date": "2012-05-11",
+        "duration_ms": 269213,
+        "spotify_url": "https://open.spotify.com/track/4jFoAHaZtbEoZ6OlfvKgTJ"
+    },
+    {
+        "id": "4epVaGE31SvHwuYO9lZVti",
+        "title": "Benvinguts",
+        "artist": "Txarango",
+        "album": "Benvinguts al Llarg Viatge",
+        "release_date": "2012-05-11",
+        "duration_ms": 222880,
+        "spotify_url": "https://open.spotify.com/track/4epVaGE31SvHwuYO9lZVti"
+    },
+    {
+        "id": "14TT5KhvA2hfw0OhXsPDUo",
+        "title": "Amagada Primavera",
+        "artist": "Txarango",
+        "album": "Benvinguts al Llarg Viatge",
+        "release_date": "2012-05-11",
+        "duration_ms": 182960,
+        "spotify_url": "https://open.spotify.com/track/14TT5KhvA2hfw0OhXsPDUo"
+    },
+    {
+        "id": "5414257g3LXLKh1KeThBYO",
+        "title": "Animal",
+        "artist": "Vita Imana",
+        "album": "Uluh",
+        "release_date": "2012-01-30",
+        "duration_ms": 237520,
+        "spotify_url": "https://open.spotify.com/track/5414257g3LXLKh1KeThBYO"
+    },
+    {
+        "id": "0f7vmVkUxpId5qOqDcCa9W",
+        "title": "Romper con todo",
+        "artist": "Vita Imana",
+        "album": "Uluh",
+        "release_date": "2012-01-30",
+        "duration_ms": 269853,
+        "spotify_url": "https://open.spotify.com/track/0f7vmVkUxpId5qOqDcCa9W"
+    },
+    {
+        "id": "7CEZsYSXeZcPnypm6SK8I2",
+        "title": "Un Nuevo Sol",
+        "artist": "Vita Imana",
+        "album": "Uluh",
+        "release_date": "2012-01-30",
+        "duration_ms": 234346,
+        "spotify_url": "https://open.spotify.com/track/7CEZsYSXeZcPnypm6SK8I2"
+    },
+    {
+        "id": "2eBIJWNocTSP07HDa8GhmJ",
+        "title": "Crudo Invierno",
+        "artist": "Vita Imana",
+        "album": "Uluh",
+        "release_date": "2012-01-30",
+        "duration_ms": 315600,
+        "spotify_url": "https://open.spotify.com/track/2eBIJWNocTSP07HDa8GhmJ"
+    },
+    {
+        "id": "477UBQdzCYUljcZnAaS2eV",
+        "title": "El Hombre Resaka Baila Ska",
+        "artist": "Ska-P",
+        "album": "Ska-P",
+        "release_date": "1995",
+        "duration_ms": 184000,
+        "spotify_url": "https://open.spotify.com/track/477UBQdzCYUljcZnAaS2eV"
+    },
+    {
+        "id": "5tdrxuIHDJ04epdtqcYqE1",
+        "title": "Abolici\u00f3n",
+        "artist": "Ska-P",
+        "album": "Ska-P",
+        "release_date": "1995",
+        "duration_ms": 197000,
+        "spotify_url": "https://open.spotify.com/track/5tdrxuIHDJ04epdtqcYqE1"
+    },
+    {
+        "id": "5ddBhARfv4rfU6bftu8eiK",
+        "title": "Balas Perdidas (feat. Emelvi)",
+        "artist": "Agorazein",
+        "album": "Balas Perdidas (feat. Emelvi) - Single",
+        "release_date": "2012-03-18",
+        "duration_ms": 226038,
+        "spotify_url": "https://open.spotify.com/track/5ddBhARfv4rfU6bftu8eiK"
+    },
+    {
+        "id": "5bKKLvrz9v9Q7qqxjDXp1z",
+        "title": "Hey Playa! (Aguanta) (feat. Baboon)",
+        "artist": "Agorazein",
+        "album": "Hey Playa! (Aguanta) (feat. Baboon)",
+        "release_date": "2012-04-10",
+        "duration_ms": 182790,
+        "spotify_url": "https://open.spotify.com/track/5bKKLvrz9v9Q7qqxjDXp1z"
+    },
+    {
+        "id": "3vgJFz9Lh4PLLUBjpMaqgN",
+        "title": "Diez A\u00f1os",
+        "artist": "Agorazein",
+        "album": "C.Tangana",
+        "release_date": "2011-07-01",
+        "duration_ms": 240036,
+        "spotify_url": "https://open.spotify.com/track/3vgJFz9Lh4PLLUBjpMaqgN"
+    },
+    {
+        "id": "2o9jywB5aAb1vOtsuHNFIm",
+        "title": "Sundays",
+        "artist": "Agorazein",
+        "album": "C.Tangana",
+        "release_date": "2011-07-01",
+        "duration_ms": 209244,
+        "spotify_url": "https://open.spotify.com/track/2o9jywB5aAb1vOtsuHNFIm"
+    },
+    {
+        "id": "4jpRPREFJcgUS6AZJFpCKl",
+        "title": "Hijos de Ca\u00edn",
+        "artist": "Bar\u00f3n Rojo",
+        "album": "En Un Lugar De La Marcha",
+        "release_date": "1985-07-01",
+        "duration_ms": 358733,
+        "spotify_url": "https://open.spotify.com/track/4jpRPREFJcgUS6AZJFpCKl"
+    },
+    {
+        "id": "3ja1qnawwz4yqGETFEVLL0",
+        "title": "Baron Rojo",
+        "artist": "Bar\u00f3n Rojo",
+        "album": "Larga Vida Al Rock & Roll",
+        "release_date": "1981",
+        "duration_ms": 340000,
+        "spotify_url": "https://open.spotify.com/track/3ja1qnawwz4yqGETFEVLL0"
+    },
+    {
+        "id": "55nvJpLfUklhokI0o3NiWR",
+        "title": "Cuerdas de Acero",
+        "artist": "Bar\u00f3n Rojo",
+        "album": "En Un Lugar De La Marcha",
+        "release_date": "1985-07-01",
+        "duration_ms": 284933,
+        "spotify_url": "https://open.spotify.com/track/55nvJpLfUklhokI0o3NiWR"
+    },
+    {
+        "id": "3SwRhX2pFT9mz2Hto7sxxs",
+        "title": "Los rokeros van al infierno",
+        "artist": "Bar\u00f3n Rojo",
+        "album": "Bar\u00f3n Rojo en Aqualung CD 2",
+        "release_date": "2002-01-01",
+        "duration_ms": 652192,
+        "spotify_url": "https://open.spotify.com/track/3SwRhX2pFT9mz2Hto7sxxs"
+    },
+    {
+        "id": "1XbkYc0szlepSM3Na5EcG5",
+        "title": "Kualqiier Dia",
+        "artist": "Boikot",
+        "album": "Tus Problemas Crecen",
+        "release_date": "2004-07-28",
+        "duration_ms": 209640,
+        "spotify_url": "https://open.spotify.com/track/1XbkYc0szlepSM3Na5EcG5"
+    },
+    {
+        "id": "25ESSO7rNVeyVQemQdqUQI",
+        "title": "Sin Tiempo para Respirar",
+        "artist": "Boikot",
+        "album": "L\u00e1grimas de Rabia (Edici\u00f3n Exclusiva Spotify)",
+        "release_date": "2012-10-01",
+        "duration_ms": 217106,
+        "spotify_url": "https://open.spotify.com/track/25ESSO7rNVeyVQemQdqUQI"
+    },
+    {
+        "id": "1qJJ1Mfmng53EQGK0pvvZS",
+        "title": "Enloquecer",
+        "artist": "Boikot",
+        "album": "L\u00e1grimas de Rabia (Edici\u00f3n Exclusiva Spotify)",
+        "release_date": "2012-10-01",
+        "duration_ms": 229813,
+        "spotify_url": "https://open.spotify.com/track/1qJJ1Mfmng53EQGK0pvvZS"
+    },
+    {
+        "id": "1B2KqBbo71jf5n3lftM6G2",
+        "title": "In\u00e9s",
+        "artist": "Boikot",
+        "album": "De Espaldas Al Mundo",
+        "release_date": "2002",
+        "duration_ms": 145213,
+        "spotify_url": "https://open.spotify.com/track/1B2KqBbo71jf5n3lftM6G2"
+    },
+    {
+        "id": "5s9o5BBgdXPdibeWUC9gzd",
+        "title": "Respeta mi mandanga",
+        "artist": "Chacho Brodas",
+        "album": "Prozak",
+        "release_date": "2012-09-18",
+        "duration_ms": 198346,
+        "spotify_url": "https://open.spotify.com/track/5s9o5BBgdXPdibeWUC9gzd"
+    },
+    {
+        "id": "1fl7V43q3gtJ0IEFSXgHZf",
+        "title": "No te queda otra (feat. Mucho Muchacho)",
+        "artist": "Chacho Brodas",
+        "album": "Prozak",
+        "release_date": "2012-09-18",
+        "duration_ms": 203200,
+        "spotify_url": "https://open.spotify.com/track/1fl7V43q3gtJ0IEFSXgHZf"
+    },
+    {
+        "id": "76rOtfMqJKfc9nDQMev6Dx",
+        "title": "Coco y pl\u00e1tanos",
+        "artist": "Chacho Brodas",
+        "album": "Prozak",
+        "release_date": "2012-09-18",
+        "duration_ms": 217626,
+        "spotify_url": "https://open.spotify.com/track/76rOtfMqJKfc9nDQMev6Dx"
+    },
+    {
+        "id": "2vWMHpwEv7BHstei04uTwK",
+        "title": "Cometecho efecto",
+        "artist": "Chacho Brodas",
+        "album": "Prozak",
+        "release_date": "2012-09-18",
+        "duration_ms": 140426,
+        "spotify_url": "https://open.spotify.com/track/2vWMHpwEv7BHstei04uTwK"
+    },
+    {
+        "id": "0IJIUg6N8tawHofZPrf0OZ",
+        "title": "Livertad (con Tosko)",
+        "artist": "Crew Cuervos",
+        "album": "Heroes & Villanos",
+        "release_date": "2012-10-02",
+        "duration_ms": 307373,
+        "spotify_url": "https://open.spotify.com/track/0IJIUg6N8tawHofZPrf0OZ"
+    },
+    {
+        "id": "04OefsdMsbhXZcbndoiogn",
+        "title": "Hemos Matado A Carrie",
+        "artist": "Crew Cuervos",
+        "album": "Heroes & Villanos",
+        "release_date": "2012-10-02",
+        "duration_ms": 358640,
+        "spotify_url": "https://open.spotify.com/track/04OefsdMsbhXZcbndoiogn"
+    },
+    {
+        "id": "6FvaOItbdR6YerdeJZJU1A",
+        "title": "H\u00e9roes",
+        "artist": "Crew Cuervos",
+        "album": "Heroes & Villanos",
+        "release_date": "2012-10-02",
+        "duration_ms": 318333,
+        "spotify_url": "https://open.spotify.com/track/6FvaOItbdR6YerdeJZJU1A"
+    },
+    {
+        "id": "4snYiY8J9ujMKlGOm14N2w",
+        "title": "El Gran golpe",
+        "artist": "Crew Cuervos",
+        "album": "Heroes & Villanos",
+        "release_date": "2012-10-02",
+        "duration_ms": 279253,
+        "spotify_url": "https://open.spotify.com/track/4snYiY8J9ujMKlGOm14N2w"
+    },
+    {
+        "id": "1bcFleuh3bt1S2yEbzIfKA",
+        "title": "El Peque\u00f1o Comediante",
+        "artist": "El Canijo de Jerez",
+        "album": "El Nuevo Despertar de la Far\u00e1ndula C\u00f3smica",
+        "release_date": "2012-11-13",
+        "duration_ms": 105439,
+        "spotify_url": "https://open.spotify.com/track/1bcFleuh3bt1S2yEbzIfKA"
+    },
+    {
+        "id": "7Frdw80bOt2vL0YukdJSXs",
+        "title": "El Son de los Traperos",
+        "artist": "El Canijo de Jerez",
+        "album": "El Nuevo Despertar de la Far\u00e1ndula C\u00f3smica",
+        "release_date": "2012-11-13",
+        "duration_ms": 233203,
+        "spotify_url": "https://open.spotify.com/track/7Frdw80bOt2vL0YukdJSXs"
+    },
+    {
+        "id": "5WvczpCrufEaEDmUogzyXL",
+        "title": "No Paramos de Mover las Manos",
+        "artist": "El Canijo de Jerez",
+        "album": "El Nuevo Despertar de la Far\u00e1ndula C\u00f3smica",
+        "release_date": "2012-11-13",
+        "duration_ms": 204715,
+        "spotify_url": "https://open.spotify.com/track/5WvczpCrufEaEDmUogzyXL"
+    },
+    {
+        "id": "3X1F5WDFlnvxxETyKhlRZR",
+        "title": "Cin Esford (Un Pistolero)",
+        "artist": "El Canijo de Jerez",
+        "album": "El Nuevo Despertar de la Far\u00e1ndula C\u00f3smica",
+        "release_date": "2012-11-13",
+        "duration_ms": 229312,
+        "spotify_url": "https://open.spotify.com/track/3X1F5WDFlnvxxETyKhlRZR"
+    },
+    {
+        "id": "5nyl1MWGTVN4wYUnuJszo3",
+        "title": "La Sombra",
+        "artist": "El Drogas",
+        "album": "Zorion Argiak",
+        "release_date": "2012-10-23",
+        "duration_ms": 199013,
+        "spotify_url": "https://open.spotify.com/track/5nyl1MWGTVN4wYUnuJszo3"
+    },
+    {
+        "id": "0yLdi1RdXlPbuykXTF2iOe",
+        "title": "En Punto Muerto",
+        "artist": "El Drogas",
+        "album": "El Drogas - EP",
+        "release_date": "2012-10-01",
+        "duration_ms": 228506,
+        "spotify_url": "https://open.spotify.com/track/0yLdi1RdXlPbuykXTF2iOe"
+    },
+    {
+        "id": "3Z1AcXbKJBlPKgCLooHE0m",
+        "title": "Fue 24D... \u00bfy Qu\u00e9?",
+        "artist": "El Drogas",
+        "album": "El Drogas - EP",
+        "release_date": "2012-10-01",
+        "duration_ms": 229600,
+        "spotify_url": "https://open.spotify.com/track/3Z1AcXbKJBlPKgCLooHE0m"
+    },
+    {
+        "id": "0PNdvryVo99L2GjHOeIjsm",
+        "title": "Lentos Minutos",
+        "artist": "El Drogas",
+        "album": "El Drogas - EP",
+        "release_date": "2012-10-01",
+        "duration_ms": 238840,
+        "spotify_url": "https://open.spotify.com/track/0PNdvryVo99L2GjHOeIjsm"
+    },
+    {
+        "id": "1CuGw5qa90jzxVleUHZGbw",
+        "title": "Tus Bragas",
+        "artist": "El \u00daltimo Ke Zierre",
+        "album": "Vivos... Por Domesticar!",
+        "release_date": "2006-05-02",
+        "duration_ms": 188891,
+        "spotify_url": "https://open.spotify.com/track/1CuGw5qa90jzxVleUHZGbw"
+    },
+    {
+        "id": "6qONgDVpyqN0EjahmXZF5h",
+        "title": "Escupe Jodidos",
+        "artist": "El \u00daltimo Ke Zierre",
+        "album": "Vivos... Por Domesticar!",
+        "release_date": "2006-05-02",
+        "duration_ms": 158040,
+        "spotify_url": "https://open.spotify.com/track/6qONgDVpyqN0EjahmXZF5h"
+    },
+    {
+        "id": "0XkcWLLzEPRi8KoDaLxhVf",
+        "title": "Soldadito Espa\u00f1ol",
+        "artist": "El \u00daltimo Ke Zierre",
+        "album": "Vivos... Por Domesticar!",
+        "release_date": "2006-05-02",
+        "duration_ms": 165355,
+        "spotify_url": "https://open.spotify.com/track/0XkcWLLzEPRi8KoDaLxhVf"
+    },
+    {
+        "id": "4AzuKQJd24YXEVcs2yPoqA",
+        "title": "Quemaste Tus Alas de \u00c1ngel",
+        "artist": "El \u00daltimo Ke Zierre",
+        "album": "Quemaste Tus Alas De \u00c1ngel",
+        "release_date": "2007-04-16",
+        "duration_ms": 145026,
+        "spotify_url": "https://open.spotify.com/track/4AzuKQJd24YXEVcs2yPoqA"
+    },
+    {
+        "id": "4GV45RzIgZhQoSJbZUKbQd",
+        "title": "Euskal Herria Jamaika Clash",
+        "artist": "Fermin Muguruza",
+        "album": "Euskal Herria Jamaika Clash",
+        "release_date": "2006",
+        "duration_ms": 228626,
+        "spotify_url": "https://open.spotify.com/track/4GV45RzIgZhQoSJbZUKbQd"
+    },
+    {
+        "id": "0GbBBKeMmzLiDrHB2k4BNX",
+        "title": "Yalah, Yalah, Ramallah!",
+        "artist": "Fermin Muguruza",
+        "album": "Euskal Herria Jamaika Clash",
+        "release_date": "2006",
+        "duration_ms": 241253,
+        "spotify_url": "https://open.spotify.com/track/0GbBBKeMmzLiDrHB2k4BNX"
+    },
+    {
+        "id": "3gsZZJ4lQ6PFXOIuvJWY9l",
+        "title": "FM 99:00 Dub Manifest",
+        "artist": "Fermin Muguruza",
+        "album": "FM 99:00 Dub Manifest",
+        "release_date": "2000",
+        "duration_ms": 311026,
+        "spotify_url": "https://open.spotify.com/track/3gsZZJ4lQ6PFXOIuvJWY9l"
+    },
+    {
+        "id": "7LXNYeKiX4ufwJJo84Zv2c",
+        "title": "In-Komunikazioa",
+        "artist": "Fermin Muguruza",
+        "album": "Fermin Muguruza Kontrabanda Komunikazioa Tour",
+        "release_date": "2012-04-10",
+        "duration_ms": 265106,
+        "spotify_url": "https://open.spotify.com/track/7LXNYeKiX4ufwJJo84Zv2c"
+    },
+    {
+        "id": "2Vr5rVuIT5ROmkeDsNnBbb",
+        "title": "Fenomenal (Atontada)",
+        "artist": "Fyahbwoy",
+        "album": "Innadiflames",
+        "release_date": "2011-04-18",
+        "duration_ms": 203213,
+        "spotify_url": "https://open.spotify.com/track/2Vr5rVuIT5ROmkeDsNnBbb"
+    },
+    {
+        "id": "161mM2Y79y8TBweoQ1QRDg",
+        "title": "Forget & Forgive",
+        "artist": "Fyahbwoy",
+        "album": "Extremely Flammable",
+        "release_date": "2012-04-20",
+        "duration_ms": 249641,
+        "spotify_url": "https://open.spotify.com/track/161mM2Y79y8TBweoQ1QRDg"
+    },
+    {
+        "id": "0wBvEJxuxJnlDRH5ud6oVZ",
+        "title": "Fuma Weed",
+        "artist": "Fyahbwoy",
+        "album": "Innadiflames",
+        "release_date": "2011-04-18",
+        "duration_ms": 182613,
+        "spotify_url": "https://open.spotify.com/track/0wBvEJxuxJnlDRH5ud6oVZ"
+    },
+    {
+        "id": "5bTfvmuKBU0eVuQu9SrF2k",
+        "title": "Porcion De Amor (Full Version)",
+        "artist": "Fyahbwoy",
+        "album": "Extremely Flammable",
+        "release_date": "2012-04-20",
+        "duration_ms": 222128,
+        "spotify_url": "https://open.spotify.com/track/5bTfvmuKBU0eVuQu9SrF2k"
+    },
+    {
+        "id": "4HNoloLRUAL7GFiYbdoGay",
+        "title": "Mi Hacha Hizo Tu Culo",
+        "artist": "Gigatr\u00f3n",
+        "album": "Mar De Cuernos",
+        "release_date": "2005",
+        "duration_ms": 194213,
+        "spotify_url": "https://open.spotify.com/track/4HNoloLRUAL7GFiYbdoGay"
+    },
+    {
+        "id": "0Ny0FfARDOgSkJvaJYNvsQ",
+        "title": "Mazinguer Metal",
+        "artist": "Gigatr\u00f3n",
+        "album": "Mar De Cuernos",
+        "release_date": "2005",
+        "duration_ms": 127026,
+        "spotify_url": "https://open.spotify.com/track/0Ny0FfARDOgSkJvaJYNvsQ"
+    },
+    {
+        "id": "3dBnL6EJIZFvR9Hb7f0OD9",
+        "title": "Walking By My Barrio",
+        "artist": "Gigatr\u00f3n",
+        "album": "Mar De Cuernos",
+        "release_date": "2005",
+        "duration_ms": 150160,
+        "spotify_url": "https://open.spotify.com/track/3dBnL6EJIZFvR9Hb7f0OD9"
+    },
+    {
+        "id": "0402IHzywbVsRTVp0JP7cL",
+        "title": "Banderas De Rona",
+        "artist": "Gigatr\u00f3n",
+        "album": "Mar De Cuernos",
+        "release_date": "2005",
+        "duration_ms": 181933,
+        "spotify_url": "https://open.spotify.com/track/0402IHzywbVsRTVp0JP7cL"
+    },
+    {
+        "id": "5oZ66zxVVSCdrYxjCAyBrQ",
+        "title": "Oso panda",
+        "artist": "Lendakaris Muertos",
+        "album": "Se habla espa\u00f1ol",
+        "release_date": "2006-05-15",
+        "duration_ms": 80680,
+        "spotify_url": "https://open.spotify.com/track/5oZ66zxVVSCdrYxjCAyBrQ"
+    },
+    {
+        "id": "605f6PfI02sqcgD2q5hK8L",
+        "title": "Eta, deja alguna discoteca",
+        "artist": "Lendakaris Muertos",
+        "album": "Se habla espa\u00f1ol",
+        "release_date": "2006-05-15",
+        "duration_ms": 78426,
+        "spotify_url": "https://open.spotify.com/track/605f6PfI02sqcgD2q5hK8L"
+    },
+    {
+        "id": "6gEnjTWsqD1F78ycNdGfvF",
+        "title": "Simpat\u00eda por el de Bildu",
+        "artist": "Lendakaris Muertos",
+        "album": "Crucificados por el Antisistema",
+        "release_date": "2012-02-28",
+        "duration_ms": 123573,
+        "spotify_url": "https://open.spotify.com/track/6gEnjTWsqD1F78ycNdGfvF"
+    },
+    {
+        "id": "6XtXfXSi8pkdlGxKsnet8d",
+        "title": "A la Calle!",
+        "artist": "Lendakaris Muertos",
+        "album": "Crucificados por el Antisistema",
+        "release_date": "2012-02-28",
+        "duration_ms": 72893,
+        "spotify_url": "https://open.spotify.com/track/6XtXfXSi8pkdlGxKsnet8d"
+    },
+    {
+        "id": "6HiBuXMUY5Xj2J60RVTNL2",
+        "title": "'A Fuego Lento' La Introduccion",
+        "artist": "L\u00edrico",
+        "album": "'A fuego lento' La introduccion",
+        "release_date": "2012-10-18",
+        "duration_ms": 206896,
+        "spotify_url": "https://open.spotify.com/track/6HiBuXMUY5Xj2J60RVTNL2"
+    },
+    {
+        "id": "024ssM7DfCKxUrb0utWCwi",
+        "title": "Querer no es poder",
+        "artist": "L\u00edrico",
+        "album": "Creador series Vol. 2 Metamorfosis",
+        "release_date": "2004-01-01",
+        "duration_ms": 202432,
+        "spotify_url": "https://open.spotify.com/track/024ssM7DfCKxUrb0utWCwi"
+    },
+    {
+        "id": "0CxwDChQtZFDqHUxN5dFHz",
+        "title": "Flor y nata",
+        "artist": "L\u00edrico",
+        "album": "995/Kompeticion: Kompeticion II",
+        "release_date": "2004-03-01",
+        "duration_ms": 273920,
+        "spotify_url": "https://open.spotify.com/track/0CxwDChQtZFDqHUxN5dFHz"
+    },
+    {
+        "id": "1E8wbnXh6byxA4NCcqcEFX",
+        "title": "Kramer y Kramer",
+        "artist": "L\u00edrico",
+        "album": "995/Kompeticion: Kompeticion",
+        "release_date": "2003-03-01",
+        "duration_ms": 307920,
+        "spotify_url": "https://open.spotify.com/track/1E8wbnXh6byxA4NCcqcEFX"
+    },
+    {
+        "id": "66t3yXJF36WYPTVcuUZkpx",
+        "title": "In da party",
+        "artist": "Morodo",
+        "album": "Bien Sobre Mal: Reggae Riddims DJ's And Singers Vol. 2",
+        "release_date": "2004-06-20",
+        "duration_ms": 183186,
+        "spotify_url": "https://open.spotify.com/track/66t3yXJF36WYPTVcuUZkpx"
+    },
+    {
+        "id": "5q5MN9yU7ozUrkM8lVFLoS",
+        "title": "Solo Tu Tienes la Llave (feat. Morodo)",
+        "artist": "Cuarto Poder",
+        "album": "In Tha House",
+        "release_date": "2010-10-26",
+        "duration_ms": 246546,
+        "spotify_url": "https://open.spotify.com/track/5q5MN9yU7ozUrkM8lVFLoS"
+    },
+    {
+        "id": "5V7EaL9kq6UisvWZB8OaC5",
+        "title": "Estoy cansao",
+        "artist": "Meko",
+        "album": "995/Kompeticion: Kompeticion II",
+        "release_date": "2004-03-01",
+        "duration_ms": 329000,
+        "spotify_url": "https://open.spotify.com/track/5V7EaL9kq6UisvWZB8OaC5"
+    },
+    {
+        "id": "5kAUrG8EyUWJ3hcZW1WsBO",
+        "title": "Jah Cuida (feat. Morodo)",
+        "artist": "Ras Kuko",
+        "album": "Ras Kuko and Friends",
+        "release_date": "2010-11-22",
+        "duration_ms": 357653,
+        "spotify_url": "https://open.spotify.com/track/5kAUrG8EyUWJ3hcZW1WsBO"
+    },
+    {
+        "id": "2LJmy2XqUq71PbjWGa2myf",
+        "title": "Tu dios de madera",
+        "artist": "Narco",
+        "album": "Alijos confiscados 1997/ 2008",
+        "release_date": "2008-02-05",
+        "duration_ms": 278600,
+        "spotify_url": "https://open.spotify.com/track/2LJmy2XqUq71PbjWGa2myf"
+    },
+    {
+        "id": "1Cqe3dseQ1Gq1LE51QPkwf",
+        "title": "Dame Veneno",
+        "artist": "Narco",
+        "album": "Alita De Mosca",
+        "release_date": "2010-01-25",
+        "duration_ms": 241880,
+        "spotify_url": "https://open.spotify.com/track/1Cqe3dseQ1Gq1LE51QPkwf"
+    },
+    {
+        "id": "5SbG3oAo5APgq8RuYhdtTi",
+        "title": "Son Ellos",
+        "artist": "Narco",
+        "album": "Alita De Mosca (Edici\u00f3n Especial)",
+        "release_date": "2009",
+        "duration_ms": 263840,
+        "spotify_url": "https://open.spotify.com/track/5SbG3oAo5APgq8RuYhdtTi"
+    },
+    {
+        "id": "3dElJcsf13iF2zq8xm6k94",
+        "title": "La Hermandad De Los Muertos",
+        "artist": "Narco",
+        "album": "Alita De Mosca (Edici\u00f3n Especial)",
+        "release_date": "2009",
+        "duration_ms": 279600,
+        "spotify_url": "https://open.spotify.com/track/3dElJcsf13iF2zq8xm6k94"
+    },
+    {
+        "id": "2wnI6uz62Zbs3R1V4DqN6i",
+        "title": "En el campito",
+        "artist": "O'Funk'illo",
+        "album": "O'Funk'Illo",
+        "release_date": "2000",
+        "duration_ms": 322413,
+        "spotify_url": "https://open.spotify.com/track/2wnI6uz62Zbs3R1V4DqN6i"
+    },
+    {
+        "id": "5zjkZoJ3yVDqzv1lyHvh3G",
+        "title": "Rulando",
+        "artist": "O'Funk'illo",
+        "album": "No Te Cabe Na'",
+        "release_date": "2005-03-22",
+        "duration_ms": 241279,
+        "spotify_url": "https://open.spotify.com/track/5zjkZoJ3yVDqzv1lyHvh3G"
+    },
+    {
+        "id": "1wW7esFlI60dKHvCxeyXB3",
+        "title": "Nos vamos pal 'keli",
+        "artist": "O'Funk'illo",
+        "album": "O'Funk'Illo",
+        "release_date": "2000",
+        "duration_ms": 203920,
+        "spotify_url": "https://open.spotify.com/track/1wW7esFlI60dKHvCxeyXB3"
+    },
+    {
+        "id": "7FbEcyRYlaGW5XToW9nrvi",
+        "title": "Ri\u00f1ones al Jerez",
+        "artist": "O'Funk'illo",
+        "album": "O'Funk'Illo",
+        "release_date": "2000",
+        "duration_ms": 254826,
+        "spotify_url": "https://open.spotify.com/track/7FbEcyRYlaGW5XToW9nrvi"
+    },
+    {
+        "id": "4jJGiNGzoUV4uacldNW5Qb",
+        "title": "La flama",
+        "artist": "Obrint Pas",
+        "album": "En Moviment",
+        "release_date": "2006-06-22",
+        "duration_ms": 212520,
+        "spotify_url": "https://open.spotify.com/track/4jJGiNGzoUV4uacldNW5Qb"
+    },
+    {
+        "id": "0YMqaRrbjivJEwtr2tTGsL",
+        "title": "La vida sense tu",
+        "artist": "Obrint Pas",
+        "album": "Coratge",
+        "release_date": "2011-04-18",
+        "duration_ms": 292373,
+        "spotify_url": "https://open.spotify.com/track/0YMqaRrbjivJEwtr2tTGsL"
+    },
+    {
+        "id": "5lZnYYBvzQMOqeYkauXyIf",
+        "title": "Si tanque els ulls",
+        "artist": "Obrint Pas",
+        "album": "Coratge",
+        "release_date": "2011-04-18",
+        "duration_ms": 273426,
+        "spotify_url": "https://open.spotify.com/track/5lZnYYBvzQMOqeYkauXyIf"
+    },
+    {
+        "id": "5h5T7yQ1qC7KcL8GySSVQx",
+        "title": "Coratge",
+        "artist": "Obrint Pas",
+        "album": "Coratge",
+        "release_date": "2011-04-18",
+        "duration_ms": 168706,
+        "spotify_url": "https://open.spotify.com/track/5h5T7yQ1qC7KcL8GySSVQx"
+    },
+    {
+        "id": "4ksd5zvWtM0CHCyK1brHWL",
+        "title": "Bro Hymn",
+        "artist": "Pennywise",
+        "album": "Pennywise",
+        "release_date": "1991",
+        "duration_ms": 180893,
+        "spotify_url": "https://open.spotify.com/track/4ksd5zvWtM0CHCyK1brHWL"
+    },
+    {
+        "id": "7uv4YSw9CLlC2BEjzd4AHg",
+        "title": "Fuck Authority",
+        "artist": "Pennywise",
+        "album": "Land Of The Free?",
+        "release_date": "2001",
+        "duration_ms": 196120,
+        "spotify_url": "https://open.spotify.com/track/7uv4YSw9CLlC2BEjzd4AHg"
+    },
+    {
+        "id": "7Bmd93DNxX5daBO3uJ58q5",
+        "title": "Revolution",
+        "artist": "Pennywise",
+        "album": "All Or Nothing (Deluxe Edition)",
+        "release_date": "2012-04-24",
+        "duration_ms": 205640,
+        "spotify_url": "https://open.spotify.com/track/7Bmd93DNxX5daBO3uJ58q5"
+    },
+    {
+        "id": "4jpYBxEFpa1Rdw1yAXVSAZ",
+        "title": "Stand By Me",
+        "artist": "Pennywise",
+        "album": "Wild Card/A Word To The Wise",
+        "release_date": "1992",
+        "duration_ms": 187826,
+        "spotify_url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
+    },
+    {
+        "id": "1s6AxFlC3JvADsYVV1fsD4",
+        "title": "Marihuana",
+        "artist": "Porretas",
+        "album": "12 Botellines y 5 Tercios",
+        "release_date": "2003-10-14",
+        "duration_ms": 224573,
+        "spotify_url": "https://open.spotify.com/track/1s6AxFlC3JvADsYVV1fsD4"
+    },
+    {
+        "id": "6RVCZgNqZQQSRDFtE7zFwt",
+        "title": "Pongamos Que Hablo de Madrid",
+        "artist": "Porretas",
+        "album": "12 Botellines y 5 Tercios",
+        "release_date": "2003-10-14",
+        "duration_ms": 173533,
+        "spotify_url": "https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt"
+    },
+    {
+        "id": "1827n2lsZdHJSzHWx7i7kY",
+        "title": "Y a\u00fan arde Madrid (con Pereza)",
+        "artist": "Porretas",
+        "album": "20 y Serenos",
+        "release_date": "2011-04-29",
+        "duration_ms": 349586,
+        "spotify_url": "https://open.spotify.com/track/1827n2lsZdHJSzHWx7i7kY"
+    },
+    {
+        "id": "6jN5rQpVzcLHpuR8hNxP2F",
+        "title": "La del futbol (con El Sevilla)",
+        "artist": "Porretas",
+        "album": "20 y Serenos",
+        "release_date": "2011-04-29",
+        "duration_ms": 194573,
+        "spotify_url": "https://open.spotify.com/track/6jN5rQpVzcLHpuR8hNxP2F"
+    },
+    {
+        "id": "1DkZRSCl8e9YzMaHh6ARRz",
+        "title": "Mi Primera Palabra",
+        "artist": "Rayden feat. Sharif & Swan Fyahbwoy",
+        "album": "Mosaico",
+        "release_date": "2012-11-06",
+        "duration_ms": 271024,
+        "spotify_url": "https://open.spotify.com/track/1DkZRSCl8e9YzMaHh6ARRz"
+    },
+    {
+        "id": "0P616Pl3wt0CHHiTwvS6CJ",
+        "title": "Nunca Sera Siempre",
+        "artist": "Rayden",
+        "album": "Mosaico",
+        "release_date": "2012-11-06",
+        "duration_ms": 104269,
+        "spotify_url": "https://open.spotify.com/track/0P616Pl3wt0CHHiTwvS6CJ"
+    },
+    {
+        "id": "0FexLKOa4zujgZ3mzb6vCr",
+        "title": "Depresivoff",
+        "artist": "Rayden feat. El Artefuckto",
+        "album": "Mosaico",
+        "release_date": "2012-11-06",
+        "duration_ms": 256921,
+        "spotify_url": "https://open.spotify.com/track/0FexLKOa4zujgZ3mzb6vCr"
+    },
+    {
+        "id": "17Ov2fkoDJuF5oqzuyTcEr",
+        "title": "Mentiras de Jarabe",
+        "artist": "Rayden",
+        "album": "Mosaico",
+        "release_date": "2012-11-06",
+        "duration_ms": 236635,
+        "spotify_url": "https://open.spotify.com/track/17Ov2fkoDJuF5oqzuyTcEr"
+    },
+    {
+        "id": "2cRxrrGrcSCMtfdAHHOhFk",
+        "title": "Roots Bloody Roots",
+        "artist": "Sepultura",
+        "album": "The Heart of Roadrunner Records",
+        "release_date": "2003-03-17",
+        "duration_ms": 212253,
+        "spotify_url": "https://open.spotify.com/track/2cRxrrGrcSCMtfdAHHOhFk"
+    },
+    {
+        "id": "2OoS1aZFAFscH1cUiKlazH",
+        "title": "Refuse / Resist",
+        "artist": "Sepultura",
+        "album": "Chaos A.D.",
+        "release_date": "1993-09-02",
+        "duration_ms": 199226,
+        "spotify_url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
+    },
+    {
+        "id": "0QRxtcxL31dRAeiUUuENPu",
+        "title": "Territory",
+        "artist": "Sepultura",
+        "album": "Chaos A.D.",
+        "release_date": "1993-09-02",
+        "duration_ms": 287480,
+        "spotify_url": "https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu"
+    },
+    {
+        "id": "3oVqlkxruyAq73jRNU7Y0N",
+        "title": "Ratamahatta",
+        "artist": "Sepultura",
+        "album": "Roots [Special Edition]",
+        "release_date": "1996-02-20",
+        "duration_ms": 270640,
+        "spotify_url": "https://open.spotify.com/track/3oVqlkxruyAq73jRNU7Y0N"
+    },
+    {
+        "id": "3arWap1kPLEJlXySwZ20TY",
+        "title": "Supernova",
+        "artist": "Skunk D.F.",
+        "album": "Esencia",
+        "release_date": "2007-01-01",
+        "duration_ms": 216513,
+        "spotify_url": "https://open.spotify.com/track/3arWap1kPLEJlXySwZ20TY"
+    },
+    {
+        "id": "07I6MwLsymGCU7DF4ogyfC",
+        "title": "Himen",
+        "artist": "Skunk D.F.",
+        "album": "Esencia",
+        "release_date": "2007-01-01",
+        "duration_ms": 197164,
+        "spotify_url": "https://open.spotify.com/track/07I6MwLsymGCU7DF4ogyfC"
+    },
+    {
+        "id": "7jzJK8lhh5BjkqwSPAWdgX",
+        "title": "Lucha interior",
+        "artist": "Skunk D.F.",
+        "album": "Esencia",
+        "release_date": "2007-01-01",
+        "duration_ms": 260074,
+        "spotify_url": "https://open.spotify.com/track/7jzJK8lhh5BjkqwSPAWdgX"
+    },
+    {
+        "id": "3ujHpr9qcp7a5ydliLIjBr",
+        "title": "Muerte y destrucci\u00f3n",
+        "artist": "Skunk D.F.",
+        "album": "Esencia",
+        "release_date": "2007-01-01",
+        "duration_ms": 236511,
+        "spotify_url": "https://open.spotify.com/track/3ujHpr9qcp7a5ydliLIjBr"
+    },
+    {
+        "id": "4jFN2G82CDBDWGdiqjLhBR",
+        "title": "Cuando Nada, Vale Nada",
+        "artist": "Soziedad Alkoholika",
+        "album": "No Intente Hacer Esto En Su Casa",
+        "release_date": "2009-03-10",
+        "duration_ms": 213760,
+        "spotify_url": "https://open.spotify.com/track/4jFN2G82CDBDWGdiqjLhBR"
+    },
+    {
+        "id": "05ZxYc1glaSTsNVbjBO9Ty",
+        "title": "Piedra Contra Tijera",
+        "artist": "Soziedad Alkoholika",
+        "album": "Tiempos Oscuros",
+        "release_date": "2003-06-23",
+        "duration_ms": 195600,
+        "spotify_url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
+    },
+    {
+        "id": "2yPAzuECxdNHu1NKP6COAj",
+        "title": "Politica Del Miedo [Rap Solo Remix]",
+        "artist": "Soziedad Alkoholika",
+        "album": "Mala Sangre",
+        "release_date": "2008-06-10",
+        "duration_ms": 285560,
+        "spotify_url": "https://open.spotify.com/track/2yPAzuECxdNHu1NKP6COAj"
+    },
+    {
+        "id": "3nzQYhFBNMnxt38G2nAz6t",
+        "title": "Nos Vimos En Berlin",
+        "artist": "Soziedad Alkoholika",
+        "album": "Sesion# 2",
+        "release_date": "2009-11-30",
+        "duration_ms": 172786,
+        "spotify_url": "https://open.spotify.com/track/3nzQYhFBNMnxt38G2nAz6t"
+    },
+    {
+        "id": "5QXm24hGYDGpdGcI1CQyYz",
+        "title": "Zuloak Riot",
+        "artist": "ZULOAK",
+        "album": "ZULOAK",
+        "release_date": "2012-09-13",
+        "duration_ms": 230303,
+        "spotify_url": "https://open.spotify.com/track/5QXm24hGYDGpdGcI1CQyYz"
+    },
+    {
+        "id": "0H8RbyTjsTpw4fIaAZVpQq",
+        "title": "American Dick",
+        "artist": "ZULOAK",
+        "album": "ZULOAK",
+        "release_date": "2012-09-13",
+        "duration_ms": 141697,
+        "spotify_url": "https://open.spotify.com/track/0H8RbyTjsTpw4fIaAZVpQq"
+    },
+    {
+        "id": "20JsDRX9v8YjEAkblIVBU3",
+        "title": "Zoaz Behera",
+        "artist": "ZULOAK",
+        "album": "ZULOAK",
+        "release_date": "2012-09-13",
+        "duration_ms": 205623,
+        "spotify_url": "https://open.spotify.com/track/20JsDRX9v8YjEAkblIVBU3"
+    },
+    {
+        "id": "6upOlnasu4Lx48trpa5wcg",
+        "title": "3,2,1 Malenkonia",
+        "artist": "ZULOAK",
+        "album": "ZULOAK",
+        "release_date": "2012-09-13",
+        "duration_ms": 216277,
+        "spotify_url": "https://open.spotify.com/track/6upOlnasu4Lx48trpa5wcg"
+    },
+    {
+        "id": "716sQGmRVGDVUYxn0aILCH",
+        "title": "Se acab\u00f3",
+        "artist": "Ska-P",
+        "album": "Se acab\u00f3",
+        "release_date": "2013-02-05",
+        "duration_ms": 249960,
+        "spotify_url": "https://open.spotify.com/track/716sQGmRVGDVUYxn0aILCH"
+    },
+    {
+        "id": "7cT3Eo8dLB5NeH6gqxKkty",
+        "title": "Canto a la rebeli\u00f3n",
+        "artist": "Ska-P",
+        "album": "Canto a la rebeli\u00f3n",
+        "release_date": "2013-02-05",
+        "duration_ms": 282933,
+        "spotify_url": "https://open.spotify.com/track/7cT3Eo8dLB5NeH6gqxKkty"
+    }
+]
