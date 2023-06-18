@@ -922,8 +922,8 @@ df.to_csv("dataset.csv", index=False) #exportem a csv
 ```
 
 
-# 28/03/2023: Exercici Pandas i treball final
-Exercici de classe pandas
+# 28/03/2023: Exercici Pandas Twitch i treball final
+## Exercici de classe pandas
 ```Python
 import pandas as pd
 #opcio 1: opció bona però potser no funciona amb df molt grans
@@ -941,3 +941,493 @@ final_frame_2 = final_frame_1.groupby("captured_at")["viewer_count"].sum()
 final_frame_2.to_csv("test_2.csv")
 
 ```
+
+Segona part
+```Python
+#PART 1  
+import pandas as pd #importem la llibreria  
+  
+#Obrim el document  
+#Per la seva mida necessitem utilitzar chunks  
+#Utilitzarem només les columnes que necessitem: data i viewers  
+df = pd.read_csv("feb_23_es_simple.csv", nrows= 100000, chunksize=10000, sep="\t", usecols=["captured_at","game_name","viewer_count"])  
+print("document obert")  
+  
+#Creem les llistes necessaries per utilitzar posteriorment  
+llista_dataframes = []  
+#Per controlar el procés havia utilitzat un contador  
+count = 0  
+  
+  
+#PART 2  
+#Per a cada chunk iterem  
+for chunk in df:  
+   #Agrupem els elements amb la mateixa data i sumem els seus viewers  
+   df2 = chunk.groupby("game_name").count()#.to_frame('contem').reset_index  
+   #Imprimia i augmentava en 1 el contador per controlar el procés mentre provava el codi   print(count)  
+   count +=1  
+   #afegim cada df a la llista  
+   llista_dataframes.append(df2)  
+  
+print('Tots els df estan a la llista')  
+  
+#PART 3  
+#Concatenem els df de la llista per crear un df amb tots  
+final_frame_1 = pd.concat (llista_dataframes)  
+print('df únic creat')  
+  
+#Com que hi haurà dates dividides en chunks, tornarem a fer l'agrupació i suma per dates  
+final_frame_2 = final_frame_1.groupby("game_name")["viewer_count"].sum()  
+  
+print(final_frame_2)  
+'''  
+#Exportem el document a csv per després poder representar visualment les dades  
+final_frame_2.to_csv("ex_2_1.csv")  
+print("Tenim exportat el document csv anomenat ex_2_1.csv")  
+'''
+```
+
+
+# 18/04/2023: Representació de dades en diferents documents de Twitch
+
+Primer mirem com són els documents i com està emmagatzemat. Per exemple, hem vist que el separador és el tabulador.
+
+**.glob:** per llegir més d'un document dins d'una mateixa carpeta.
+
+```Python
+import pandas as pd
+import glob
+
+dataset = glob.glob("datasets/twitch_*") # per llegir més d'una carpeta
+
+for data in datasets:
+	df = pd.read_csv(data, sep="\t")
+	print (df) #per controlar que està agafant bé les dades de tots els fitxers 
+	
+```
+
+Els chunks (per exemple 100 files i 100files) són més òptims que processar tot sencer (200 files).
+
+```Python
+import pandas as pd
+import glob
+
+dataset = glob.glob("datasets/twitch_*")
+llista=[]
+llista_streamers = ["auronplay", "illojuan"]
+
+for data in datasets:
+	df = pd.read_csv(data, sep="\t")
+	df.loc[df['streamer_name']=="auronplay"]
+	llista.append(df)
+	print(df)
+
+df_final = pd.concat(llista)
+df_final.to_csv(f"{streamer}-dataset.csv", index=False)
+```
+Treballem amb final-dataset (extret del Github) al Tableau.
+
+
+
+# 25/05/2023: Dubtes treball final
+A la web de l'assignatura hi ha un exemple de pàgina web per publicar el treball final.
+Utilitzar Code>Reformat code (Ctrl+Alt+L) perquè estigui tot el text OK d'estil.
+
+
+
+# 09/05/2023: Anàlisi de missatges d'odi en XXSS: Models NLP (Natural Language Processing) amb HuggingFace
+
+Torch i tensorflow és més o menys el mateix. Torch és per nivell personal i TensorFlow
+
+## Primera prova
+Utilitzem el codi d'exemple.
+```Python
+# pip install transformers  
+# pip install torch  
+# Raw Data --> TOKENIZERS --> Models --> Outputs  
+  
+from transformers import pipeline  
+  
+pipe = pipeline("text-classification")  
+result = pipe("Maria wants to kill Johan")  
+print(result)  
+  
+# pip install sentencepiece  
+pipe = pipeline("translation", model="Helsinki-NLP/opus-mt-en-es")  
+result = pipe("Maria wants to kill Johan")  
+print(result)
+```
+
+I després busquem a hugginface per saber si hi ha models per entendre o traduïr el català.
+Utilitzem el següent codi i ens funciona per traduïr de l'anglès al català.
+```Python
+# pip install transformers  
+# pip install torch  
+# pip install sentencepiece  
+  
+# Raw Data --> TOKENIZERS --> Models --> Outputs  
+  
+from transformers import pipeline  
+  
+'''pipe = pipeline("text-classification")  
+result = pipe("Maria wants to kill Johan")  
+print(result)'''  
+  
+# pip install sentencepiece  
+pipe = pipeline("translation", model="Helsinki-NLP/opus-mt-en-ca")  
+result = pipe("Maria wants to kill Johan")  
+print(result)
+```
+
+
+## Segona prova: models individuals
+Ara anem a fer-ho amb models individuals.
+El tokenizer és l'encarregat de dividir el text en parts perquè es puguin puntuar les parts.
+Model i tokenizer acostuma a ser el mateix.
+
+```Python
+##### DEPENDENCIAS  
+# pip install tqdm  
+# pip install pandas  
+# pip install transformers  
+# pip install torch  
+#####  
+  
+##### EJEMPLOS DE MODELOS  
+# https://huggingface.co/MMG/xlm-roberta-base-sa-spanish  
+# https://huggingface.co/jorgeortizfuentes/spanish_hate_speech  
+# https://huggingface.co/francisco-perez-sorrosal/distilbert-base-uncased-finetuned-with-spanish-tweets-clf  
+#####  
+  
+from tqdm import tqdm  
+import pandas as pd  
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline  
+  
+df = pd.read_csv("dataset-inmigrantes-barcelona.csv", nrows=10, usecols=["tweet_id","text"])  
+print(df)  
+  
+  
+# Carregar Model  
+tokenizer = AutoTokenizer.from_pretrained("MMG/xlm-roberta-base-sa-spanish")  
+model = AutoModelForSequenceClassification.from_pretrained("MMG/xlm-roberta-base-sa-spanish")  
+  
+# Generar el Pipeline  
+pipe = pipeline("text-classification", model=model, tokenizer=tokenizer)  
+  
+tweets = df["text"].to_list()  
+tweet_id = df["tweet_id"].to_list()  
+  
+tup_list = []  
+  
+for tweet in tweets:  
+    result = pipe(tweet)  
+    print(result)  
+  
+    content = result[0]  
+    label = content["label"]  
+    score = content["score"]  
+    tupla = (tweet, label, score)  
+    tup_list.append(tupla)  
+  
+  
+data = pd.DataFrame.from_records(tup_list, columns=["text", "label", "score"])  
+data.to_csv("analysis.csv", index=False)
+```
+
+En aquest cas, el número que indica el model és la seguretat amb la que afirma l'etiqueta.
+
+## Tercer exemple
+Per comparar els models, utilitzarem el següent codi:
+```Python
+# DEPENDENCIAS  
+# pip install tqdm  
+# pip install pandas  
+# pip install transformers  
+# pip install torch  
+#####  
+  
+# EJEMPLOS DE MODELOS  
+# https://huggingface.co/MMG/xlm-roberta-base-sa-spanish  
+# https://huggingface.co/jorgeortizfuentes/spanish_hate_speech  
+# https://huggingface.co/francisco-perez-sorrosal/distilbert-base-uncased-finetuned-with-spanish-tweets-clf  
+#####  
+  
+  
+import glob  
+from tqdm import tqdm  
+import pandas as pd  
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline  
+  
+  
+models = ["MMG/xlm-roberta-base-sa-spanish", "jorgeortizfuentes/spanish_hate_speech", "francisco-perez-sorrosal/distilbert-base-uncased-finetuned-with-spanish-tweets-clf"]  
+  
+dataset = "dataset-inmigrantes-barcelona.csv"  
+  
+def proc(dataset):  
+    for model in models:  
+        model_name = model.split("/")[1]  
+        print(model_name)  
+        dataset_new_name = f"procesado-{model_name}.csv"  
+        tup_list = []  
+        df = pd.read_csv(dataset, usecols=["tweet_id","text"])  
+        tweets = df["text"].to_list()  
+        tweet_id = df["tweet_id"].to_list()  
+  
+        t = AutoTokenizer.from_pretrained(model)  
+        m = AutoModelForSequenceClassification.from_pretrained(model)  
+  
+        for tweet, tid in tqdm(zip(tweets, tweet_id)):  
+            pipe = pipeline("text-classification", model=m, tokenizer=t)  
+            result = pipe(tweet)  
+            content = result[0]  
+            label = content["label"]  
+            score = content["score"]  
+            tupla = (str(tid), tweet, label, score)  
+            tup_list.append(tupla)  
+  
+        data = pd.DataFrame.from_records(tup_list, columns=[f"tweet_id", "text", f"label-{model}", f"score-{model}"])  
+  
+        data.to_csv(dataset_new_name, index=False)  
+  
+proc(dataset)  
+  
+# Aqui hacemos un merge de todos los datasets para tener un archivo final con todo  
+  
+lists_of_sets = []  
+datasets = glob.glob("procesado-*.csv")  
+  
+dataset_madre = pd.read_csv(datasets[0])  
+  
+for d in datasets[1:]:  
+    df = pd.read_csv(d)  
+    dataset_madre = dataset_madre.merge(df, on=["tweet_id", "text"])  
+    print(dataset_madre)  
+  
+dataset_madre.to_csv(f"final-{dataset}")
+```
+
+El codi extreu diferents fitxers que després es poden exportar a Tableau per fer visualitzacions.
+
+
+
+# 16/05/2023: Eurovisió, requests BeautifulSoup
+
+Requests: ens permet connectar-nos a webs i obtenir el seu contingut.
+BeautifulSoup: interpreta el contingut html.
+El que farem serà *scrapping* a partir de la Wikipedia de Eurovisió per extreure les dades de cada any.
+
+A partir d'aquí treiem la llista de cançons a través de wikipedia.
+```Python
+import requests  
+import pandas as pd  
+import lxml  
+from bs4 import BeautifulSoup  
+  
+  
+#print(resposta.text)  
+anys = range(2000, 2023, 1)  
+  
+llista_df = []  
+  
+for any in anys:  
+    try:  
+        resposta = requests.get(f"https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_{any}")  
+        #print(resposta.text)  
+        soup = BeautifulSoup(resposta.text, 'html.parser')  
+        final = soup.find('span', id="Final")  
+        tabla = final.find_next("table")  
+        df = pd.read_html(tabla.prettify())[0]  
+        df["any"] = any  
+        #print(df)  
+  
+        df.columns.values[0] = "N."  
+        df.columns.values[5] = "Puntos"  
+        df.columns.values[2] = "Cantante"  
+  
+        llista_df.append(df)  
+    except AttributeError:  
+        print(f"error {any}")  
+  
+final = pd.concat(llista_df)  
+final.to_excel("llista_final(3).xlsx", index=False)
+```
+
+
+
+Una vegada extreta la informació de wikipedia, iterem per extreure la info de spotify. AQUEST CODI NO ESTÀ COMPLET (MIRAR A SOTA CODI COMPLET)
+```Python
+import requests  
+import spotipy  
+from spotipy.oauth2 import SpotifyClientCredentials  
+import pandas as pd  
+import lxml  
+from bs4 import BeautifulSoup  
+  
+df = pd.read_excel("llista_final(3).xlsx")  
+  
+client_id = 'clau_id'  
+client_secret = 'clau_secret'  
+  
+  
+# Codi d'autenticació  
+client_id = 'clau_id'  
+client_secret = 'clau_secret'  
+client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)  
+sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)  
+  
+  
+for index, row in df.iterrows():  
+    artista = row["Cantante"]  
+    track = row["Canción"]  
+    #per buscar a spotify cal treure les comes que hi ha al dataframe "«»"  
+    try:  
+        p_track = track.split("«")[1].split("»")[0]  
+    except IndexError:  
+        p_track = track  
+    print(artista, track)  
+    q = f"{p_track} {artista} eurovision"    info = sp.search(q, limit=1, offset=0, type='track', market=None)  
+    print(info)
+```
+
+
+-------> Codi final publicat al github de l'assignatura
+				(https://adriapadilla.github.io/bigdata-uab/scrapping.html)
+
+```Python
+### Llibreries a instal·lar #################
+# pip install beautifulsoup4                #
+# pip install requests                      #
+# pip install spotipy                       #
+# pip install lxml                          #
+# pip install openpyxl                      #
+#############################################
+
+### DOCUMENTACIO SOBRE APIS
+# Spotipy Docs: https://spotipy.readthedocs.io/en/2.22.1/
+###
+
+# Importem llibreríes 
+import requests # Per fer les peticions d'html a les url de wikipedia
+from bs4 import BeautifulSoup # per processar les respostes html
+import pandas as pd # Per generar els datasets
+import time # per fer time.sleep i no saturar la web
+import spotipy # D'on treurem dades de la API d'spotify
+import json # Per processar les respostes de la API
+from spotipy.oauth2 import SpotifyClientCredentials # Per generar les credencials d'spotify
+
+###################
+# PARTE SCRAPPING #
+###################
+
+años = range(2000,2024,1) # Se genera un rango de años
+
+list_of_dfs = [] # Aquí se guardaran las tablas de resultados para cada año
+
+# Iteramos sobre los años de wikipedia de la página de Eurovisión
+for año in años:
+    url = f'https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_{año}' # Variando el año
+    response = requests.get(url) # Hacemos la petición de la URL
+    soup = BeautifulSoup(response.text, 'html.parser') # La procesamos cono HTML
+    try: # Intentamos obtener el <span> con id = Final
+        final = soup.find('span', id="Final")
+        tabla = final.find_next("table") # Buscamos la tabla después del elemento <span>
+        df = pd.read_html(tabla.prettify())[0]
+
+        # Detectamos que en algunos años las columnas tienen nombres distintos. Esto genera
+        # problemas en el DF final, por lo que es necesario unificar los criterios. Podemos
+        # dar un nombre concreto a una columna del df usando su posición [nº_indice]
+        
+        df["año"] = año
+        df.columns.values[0] = "N."
+        df.columns.values[2] = "cantante"
+        df.columns.values[5] = "Puntos"
+
+        print(df)
+        list_of_dfs.append(df)
+        
+    # Si por alguna razón un año de wikipedia no existe, debemos generar una excepción para 
+    # controlar el error. Si no lo hacemos, el codigo nos devolverá un IndexError o similar, 
+    # lo que parará la ejecución. 
+    except AttributeError:
+        print(f"error en el año: {año}")
+        pass
+
+# Exportamos el Dataframe final
+final_df = pd.concat(list_of_dfs)
+final_df.to_csv("dataset.csv", sep="\t", quotechar='"', index=False)
+
+#####################
+# PARTE SPOTIFY API #
+#####################
+
+## LEEMOS EL DF QUE ACABAMOS DE CREAR para lanzxar las consultas a spotify
+
+df = pd.read_csv("dataset.csv", sep="\t")
+list_of_rows = []
+
+# Iteramos sobre el dataframe, linea po linea (row)
+for index, row in df.iterrows():
+    artist = row["cantante"] # Necesitamos el nombre del cantante para buscarlo en Spotify
+    track = row["Canción"] # El nombre de la canción para buscarlo en la API de spoty
+    año = row["año"]
+    print(f"pillando datos para {artist} - canción: {track} - año: {año}")
+  
+    track = track.split("«")[1].split("»")[0] # Limpiamos el nombre del artista que viene de Wikipedia
+
+    # Cargamos los credenciales de la API
+    SPOTIPY_CLIENT_ID="tus_credenciales"
+    SPOTIPY_CLIENT_SECRET="tus_credenciales"
+
+    # Generamos el autenticador
+    auth_manager = SpotifyClientCredentials(SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET)
+    sp = spotipy.Spotify(auth_manager=auth_manager)
+
+    # Creamos la query que vamos a lanzar a la API de spoty
+    q = f"{artist} {track}"
+    
+    # Atacamos la función searh() de Spotipy con la query (q), y solo nos interesa el primer resultado. 
+    # Es posible que la API de spotify falle al encontrar el artista que queremos. No podemos verificar
+    # el resultado... Por lo que debemos fiarnos que la query es buena (track + artista), y por lo tanto el 
+    # resultado de la búsqueda se ajusta. Pero hay cierto margen de error o incertidumbre aquí.
+    
+    query = sp.search(q, limit=1, offset=0, type='track', market=None)
+    
+    # Guardamos la respuesta de la API para usarla como referencia para buscar las claves que queremos
+    # Solo lo haremos una vez
+    """
+    with open('data.json', 'w', encoding='utf-8') as f:
+        json.dump(query, f, ensure_ascii=False, indent=4)
+    """
+    # Obtenemos los datos de la respuesta de la API y los metemos en una nueva columnad entro de la row
+    try:
+        row["url"] = query["tracks"]["items"][0]["external_urls"]["spotify"]
+        row["track_id"] = query["tracks"]["items"][0]["id"]
+        tracK_id = query["tracks"]["items"][0]["id"]
+    except IndexError:
+        row["url"] = "no data"
+        row["track_id"] = "no data"
+
+    # Ahora, con el ID de la canción de Spotify, atacamos el método "audio_features" de la API, para obtener los datos 
+    # de la canción. 
+    
+    features = sp.audio_features(tracK_id)
+    
+    # Volcamos la respuesta directa de la api en un DF con la función .from_dict()
+    features_data = pd.DataFrame.from_dict(features, orient='columns')
+
+    # Convertimos la ROW en un dataframe, y transponemos filas/columnas (recordad que quedaron "giradas")
+    row_df = row.to_frame().T.reset_index(drop=True)
+
+    # Juntamos la row con el features_data, para tener una fila con todas las columnas
+    all_data = pd.concat([row_df, features_data], axis=1)
+
+    # Lo metemos en lista de rows
+    print(all_data)
+    list_of_rows.append(all_data)
+    time.sleep(1)
+
+# concatenamos y fuera!
+final_rows = pd.concat(list_of_rows)
+final_rows.to_csv("final.csv", index=False, sep="\t", quotechar='"')
+```
+
