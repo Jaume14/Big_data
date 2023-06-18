@@ -13,3 +13,11 @@
 <a href="https://github.com/Jaume14/Big_data/blob/main/Analisi%20i%20Visualitzaci%C3%B3%20del%20Big%20Data.md#21032023-api-spotify">21/03/2023: API Spotify</a>
 
 <a href="https://github.com/Jaume14/Big_data/blob/main/Analisi%20i%20Visualitzaci%C3%B3%20del%20Big%20Data.md#28032023-exercici-pandas-i-treball-final">28/03/2023: Exercici Pandas i treball final</a>
+
+<a href="https://github.com/Jaume14/Big_data/blob/main/Analisi%20i%20Visualitzaci%C3%B3%20del%20Big%20Data.md#18042023-representaci%C3%B3-de-dades-en-diferents-documents-de-twitch"> 18/04/2023: Representació de dades en diferents documents de Twitch
+
+<a href="https://github.com/Jaume14/Big_data/blob/main/Analisi%20i%20Visualitzaci%C3%B3%20del%20Big%20Data.md#25052023-dubtes-treball-final"> 25/05/2023: Dubtes treball final
+  
+<a href="https://github.com/Jaume14/Big_data/blob/main/Analisi%20i%20Visualitzaci%C3%B3%20del%20Big%20Data.md#09052023-an%C3%A0lisi-de-missatges-dodi-en-xxss-models-nlp-natural-language-processing-amb-huggingface"> 09/05/2023: Anàlisi de missatges d'odi en XXSS: Models NLP (Natural Language Processing) amb HuggingFace
+
+<a href="https://github.com/Jaume14/Big_data/blob/main/Analisi%20i%20Visualitzaci%C3%B3%20del%20Big%20Data.md#16052023-eurovisi%C3%B3-requests-beautifulsoup"> 16/05/2023: Eurovisió, requests BeautifulSoup
