@@ -27,11 +27,18 @@
 
 ## Exercicis
 
-<a href="https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Entrega"> Exercici 1: Anàlisi a Twitch
-<a href="https://github.com/Jaume14/Big_data/tree/main/Treball_Twitch"> Exercici 1: Anàlisi a Twitch (fitxers)
+[Exercici 1: Anàlisi a Twitch
+](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Entrega)
 
-<a href="https://github.com/Jaume14/Big_data/blob/4168775c7e223dc891b6f3d2f8c16c9926582f2f/Treball_Twitter/Entrega.md"> Exercici 2: Anàlisi a Twitter
-<a href="https://github.com/Jaume14/Big_data/tree/main/Treball_Twitter"> Exercici 2: Anàlisi a Twitter (fitxers)
+[Exercici 1: Anàlisi a Twitch (fitxers)
+](https://github.com/Jaume14/Big_data/tree/main/Treball_Twitch)
+
+
+[Exercici 2: Anàlisi a Twitter
+](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitter/Entrega.md)
+
+[Exercici 2: Anàlisi a Twitter (fitxers)
+](https://github.com/Jaume14/Big_data/tree/main/Treball_Twitter)
 
 <a href="https://ddc12300.github.io/"> Treball final: Anàlisi de les playlists del Viña Rock a Spotify
 
