@@ -28,7 +28,7 @@
 ## Exercicis
 
 [Exercici 1: Anàlisi a Twitch
-](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Entrega)
+](https://github.com/Jaume14/Big_data/blob/main/Treball_Twitch/Entrega.md)
 
 [Exercici 1: Anàlisi a Twitch (fitxers)
 ](https://github.com/Jaume14/Big_data/tree/main/Treball_Twitch)
